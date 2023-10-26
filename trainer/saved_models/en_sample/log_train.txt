@@ -1,0 +1,1878 @@
+[100/300] Train loss: 6.00155, Valid loss: 4.41503, Elapsed_time: 769.76078
+Current_accuracy : 0.000, Current_norm_ED  : 0.0040
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0040
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+PRINTABLE *               | C                         | 0.0000	False
+672495 Flumes jest        |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[200/300] Train loss: 4.13572, Valid loss: 3.99153, Elapsed_time: 1681.27155
+Current_accuracy : 0.000, Current_norm_ED  : 0.0105
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0105
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+DICE {#Blamed}            | V                         | 0.0000	False
+Brigham                   | C                         | 0.0001	False
+--------------------------------------------------------------------------------
+[300/300] Train loss: 3.87704, Valid loss: 3.71897, Elapsed_time: 2682.91890
+Current_accuracy : 0.000, Current_norm_ED  : 0.0298
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0298
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Borujerd Portage          | C                         | 0.0000	False
+Harmony ' Njrotc RI       | R                         | 0.0000	False
+--------------------------------------------------------------------------------
+[100/300] Train loss: 5.83933, Valid loss: 4.15626, Elapsed_time: 765.78178
+Current_accuracy : 0.000, Current_norm_ED  : 0.0005
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0005
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Returning ?               |                           | 0.0000	False
+Usenet antagonistic       |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[200/300] Train loss: 4.14545, Valid loss: 4.04162, Elapsed_time: 1599.62986
+Current_accuracy : 0.000, Current_norm_ED  : 0.0029
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0029
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+352640 Inherently         |                           | 0.0000	False
+Infection 867             |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[300/300] Train loss: 3.92669, Valid loss: 3.70400, Elapsed_time: 2428.56583
+Current_accuracy : 0.000, Current_norm_ED  : 0.0444
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0444
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Ulaanbaatar ~Facilities ~ | K                         | 0.0000	False
+practicable UKZN          | K                         | 0.0000	False
+--------------------------------------------------------------------------------
+[100/300] Train loss: 6.04406, Valid loss: 4.30681, Elapsed_time: 461.45936
+Current_accuracy : 0.000, Current_norm_ED  : 0.0003
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0003
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Idea rebounder Nunciature |                           | 0.0000	False
+Baronesse Devarajan Rake  |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[200/300] Train loss: 4.14028, Valid loss: 3.88183, Elapsed_time: 985.71786
+Current_accuracy : 0.000, Current_norm_ED  : 0.0100
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0100
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+protected                 | S                         | 0.0002	False
+Universal $ Radomir       | S                         | 0.0000	False
+--------------------------------------------------------------------------------
+[300/300] Train loss: 3.85825, Valid loss: 3.81496, Elapsed_time: 1507.44075
+Current_accuracy : 0.000, Current_norm_ED  : 0.0534
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0534
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+CAL                       | C                         | 0.0036	False
+Disease :                 | Z                         | 0.0001	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 17.17948, Valid loss: 4.71041, Elapsed_time: 8.41031
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Behemoth Wurzburg gmina   |                           | 0.0024	False
+BERGS                     |                           | 0.0031	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 6.34489, Valid loss: 4.39483, Elapsed_time: 15.10354
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Universal $ Radomir       |                           | 0.0001	False
+Lindsey_Coge Vaqueros nuns |                           | 0.0018	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 5.17010, Valid loss: 4.75873, Elapsed_time: 23.65245
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Leightonstone <           |                           | 0.0065	False
+3579 ADVISED Solving      |                           | 0.0210	False
+--------------------------------------------------------------------------------
+[40/300] Train loss: 4.72536, Valid loss: 4.59181, Elapsed_time: 29.35599
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Munch-Mono                |                           | 0.0104	False
+Usl ' Zulfikar ) bay      |                           | 0.0141	False
+--------------------------------------------------------------------------------
+[50/300] Train loss: 4.59158, Valid loss: 4.47927, Elapsed_time: 35.18028
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Holstein Alex             |                           | 0.0068	False
+08719 |                   |                           | 0.0044	False
+--------------------------------------------------------------------------------
+[60/300] Train loss: 4.55944, Valid loss: 4.34027, Elapsed_time: 41.33901
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+jewels Equinox gulag      |                           | 0.0011	False
+Rodriguez                 |                           | 0.0011	False
+--------------------------------------------------------------------------------
+[70/300] Train loss: 4.53150, Valid loss: 4.37004, Elapsed_time: 47.01648
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Warriors                  |                           | 0.0035	False
+Ulrica Pradesh .          |                           | 0.0004	False
+--------------------------------------------------------------------------------
+[80/300] Train loss: 4.51759, Valid loss: 4.38316, Elapsed_time: 52.75420
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Prejudice Mustang Hawkesbury |                           | 0.0043	False
+Thorsport? ^ RIOTS MahaRaas & |                           | 0.0002	False
+--------------------------------------------------------------------------------
+[90/300] Train loss: 4.36979, Valid loss: 4.34685, Elapsed_time: 58.90029
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Bloom #SZSE               |                           | 0.0000	False
+Islands Waco              |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[100/300] Train loss: 4.39773, Valid loss: 4.20050, Elapsed_time: 64.61077
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+NPR LinuxTV _             |                           | 0.0000	False
+hostel + Easel %          |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[110/300] Train loss: 4.27670, Valid loss: 4.26628, Elapsed_time: 70.34808
+Current_accuracy : 0.000, Current_norm_ED  : 0.0018
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0018
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+systems; - (Glan) :       |                           | 0.0000	False
+Hamasaki Shortfall #quarrel |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[120/300] Train loss: 4.17260, Valid loss: 4.03907, Elapsed_time: 76.62868
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0018
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+HIV                       |                           | 0.0002	False
+figurine Andreas 65317    |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[130/300] Train loss: 4.15369, Valid loss: 4.12751, Elapsed_time: 82.32868
+Current_accuracy : 0.000, Current_norm_ED  : 0.0045
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0045
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Kanslihuset Jack          |                           | 0.0000	False
+Refuse 3 -                | R                         | 0.0005	False
+--------------------------------------------------------------------------------
+[140/300] Train loss: 4.22751, Valid loss: 4.14856, Elapsed_time: 88.57256
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0045
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ossified } 81 Image       |                           | 0.0001	False
+EDGING Zuis = Tchiquaqueia |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[150/300] Train loss: 4.13660, Valid loss: 4.40818, Elapsed_time: 94.30186
+Current_accuracy : 0.000, Current_norm_ED  : 0.0001
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0045
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+YURYSDYKA Gotha Sesha ]   |                           | 0.0166	False
+Imgc creolized superseding |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[160/300] Train loss: 4.10461, Valid loss: 4.17297, Elapsed_time: 100.01850
+Current_accuracy : 0.000, Current_norm_ED  : 0.0066
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0066
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Voa Lucca also            |                           | 0.0000	False
+Benchmarking Vesterbro Hermitage |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[170/300] Train loss: 4.18124, Valid loss: 3.94003, Elapsed_time: 106.25739
+Current_accuracy : 0.000, Current_norm_ED  : 0.0078
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0078
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Vaishnavite Mahratta      | U                         | 0.0000	False
+"photojournalist" Growing Waggons |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[180/300] Train loss: 3.99555, Valid loss: 4.44715, Elapsed_time: 112.08617
+Current_accuracy : 0.000, Current_norm_ED  : 0.0099
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0099
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+NIKOLAUS _ GenomEUtwin? ) | C                         | 0.0000	False
+Vhf?                      | C                         | 0.0000	False
+--------------------------------------------------------------------------------
+[190/300] Train loss: 3.98088, Valid loss: 3.96286, Elapsed_time: 117.92529
+Current_accuracy : 0.000, Current_norm_ED  : 0.0124
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0124
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Calcium                   | C                         | 0.0000	False
+Baylor ?                  | S                         | 0.0000	False
+--------------------------------------------------------------------------------
+[200/300] Train loss: 3.98417, Valid loss: 3.92313, Elapsed_time: 124.24869
+Current_accuracy : 0.000, Current_norm_ED  : 0.0088
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0124
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+JIS                       | C                         | 0.0014	False
+Hah } DesRon              | C                         | 0.0000	False
+--------------------------------------------------------------------------------
+[210/300] Train loss: 3.97473, Valid loss: 3.91951, Elapsed_time: 130.00639
+Current_accuracy : 0.000, Current_norm_ED  : 0.0142
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0142
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+INTERNALLY generally & Prijuoste | H                         | 0.0000	False
+Mayes                     | H                         | 0.0000	False
+--------------------------------------------------------------------------------
+[220/300] Train loss: 4.01090, Valid loss: 3.96740, Elapsed_time: 135.87467
+Current_accuracy : 0.000, Current_norm_ED  : 0.0301
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0301
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+financialization          | W                         | 0.0000	False
+Jandial = Kushwaha 'Plaza?' | W                         | 0.0000	False
+--------------------------------------------------------------------------------
+[230/300] Train loss: 3.76391, Valid loss: 3.83954, Elapsed_time: 142.21108
+Current_accuracy : 0.000, Current_norm_ED  : 0.0287
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0301
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sign REFORMERS            | N                         | 0.0000	False
+VT recovered? - 69274     | N                         | 0.0000	False
+--------------------------------------------------------------------------------
+[240/300] Train loss: 3.81660, Valid loss: 3.98157, Elapsed_time: 148.00208
+Current_accuracy : 0.000, Current_norm_ED  : 0.0172
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0301
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+interact-Kierkegaard ^ 34761 % | M                         | 0.0000	False
+Lviv > (Spadaro) &        | C                         | 0.0000	False
+--------------------------------------------------------------------------------
+[250/300] Train loss: 3.78613, Valid loss: 3.86756, Elapsed_time: 153.76582
+Current_accuracy : 0.000, Current_norm_ED  : 0.0501
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0501
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+KHASHOGGI Shikshan_vocations | H                         | 0.0000	False
+Homesick 7104             | S                         | 0.0000	False
+--------------------------------------------------------------------------------
+[260/300] Train loss: 3.81445, Valid loss: 3.64715, Elapsed_time: 160.18262
+Current_accuracy : 0.000, Current_norm_ED  : 0.0671
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0671
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+(Includes) Flagellum 784 @ | M                         | 0.0000	False
+Kilowatt Antennal         | M                         | 0.0000	False
+--------------------------------------------------------------------------------
+[270/300] Train loss: 3.78477, Valid loss: 3.72526, Elapsed_time: 166.10805
+Current_accuracy : 0.000, Current_norm_ED  : 0.0696
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0696
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Kanslihuset Jack          | B                         | 0.0000	False
+AMAZING                   | C                         | 0.0000	False
+--------------------------------------------------------------------------------
+[280/300] Train loss: 3.72231, Valid loss: 3.82332, Elapsed_time: 172.50369
+Current_accuracy : 0.000, Current_norm_ED  : 0.0633
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0696
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Highs {Orecta}            | S                         | 0.0000	False
+Commune Mindful           | S                         | 0.0000	False
+--------------------------------------------------------------------------------
+[290/300] Train loss: 3.61133, Valid loss: 4.23353, Elapsed_time: 178.39340
+Current_accuracy : 0.000, Current_norm_ED  : 0.0214
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0696
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Reicher > eupolypods      | M                         | 0.0000	False
+Cooking %                 | I                         | 0.0014	False
+--------------------------------------------------------------------------------
+[300/300] Train loss: 3.71521, Valid loss: 3.55452, Elapsed_time: 184.12209
+Current_accuracy : 0.000, Current_norm_ED  : 0.0785
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0785
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Gm Fajans inform          | R                         | 0.0000	False
+equipped: ,               | S                         | 0.0001	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 15.95297, Valid loss: 9.51693, Elapsed_time: 1.31042
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+displace `                |                           | 0.0000	False
+Freudian %                |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 6.26556, Valid loss: 6.25805, Elapsed_time: 7.15111
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Jandial = Kushwaha 'Plaza?' |                           | 0.0000	False
+Newsreaders Maree <       |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 5.19889, Valid loss: 5.64431, Elapsed_time: 13.32822
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+tears switching :         |                           | 0.0000	False
+RSV                       |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[40/300] Train loss: 4.72721, Valid loss: 5.00161, Elapsed_time: 18.97675
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Pushing; XANTHOPLEURA     |                           | 0.0000	False
+Khalil                    |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[50/300] Train loss: 4.76058, Valid loss: 4.85003, Elapsed_time: 24.68927
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Dad @WRANGEL              |                           | 0.0000	False
+lenience Hue ` Wesleyan   |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[60/300] Train loss: 4.63291, Valid loss: 4.50699, Elapsed_time: 30.85475
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Toleranzpreis TOOL        |                           | 0.0000	False
+MacDonald                 |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[70/300] Train loss: 4.53303, Valid loss: 4.82848, Elapsed_time: 36.51616
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+ritualistic Alejo         |                           | 0.0000	False
+Personalization _ Tulloch |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[80/300] Train loss: 4.37777, Valid loss: 4.33947, Elapsed_time: 42.20572
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Sediments                 |                           | 0.0000	False
+Xxii Determined : napping |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[90/300] Train loss: 4.42378, Valid loss: 4.26952, Elapsed_time: 48.34350
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Concacaf Presidency       |                           | 0.0000	False
+Nanashi '                 |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[100/300] Train loss: 4.34882, Valid loss: 4.22179, Elapsed_time: 54.07401
+Current_accuracy : 0.000, Current_norm_ED  : 0.0003
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0003
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Enough Wiener             |                           | 0.0000	False
+0583/619 Gotham < Of ]    |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[110/300] Train loss: 4.26493, Valid loss: 4.29088, Elapsed_time: 59.81486
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0003
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Ozokwor Vw? GLOBE (       |                           | 0.0000	False
+FREQUENT Niels            |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[120/300] Train loss: 4.17348, Valid loss: 4.15516, Elapsed_time: 65.94448
+Current_accuracy : 0.000, Current_norm_ED  : 0.0072
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0072
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Benjamin                  | C                         | 0.0000	False
+Islands Waco              | C                         | 0.0000	False
+--------------------------------------------------------------------------------
+[130/300] Train loss: 4.14472, Valid loss: 3.98838, Elapsed_time: 71.70885
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0072
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Fatherland-Newcomb        |                           | 0.0000	False
+Thinker Reinforce         |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[140/300] Train loss: 4.15040, Valid loss: 3.98292, Elapsed_time: 77.86673
+Current_accuracy : 0.000, Current_norm_ED  : 0.0085
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0085
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Roure                     | R                         | 0.0001	False
+chocolate Netherthorpe    | C                         | 0.0000	False
+--------------------------------------------------------------------------------
+[150/300] Train loss: 4.07511, Valid loss: 4.17843, Elapsed_time: 83.61495
+Current_accuracy : 0.000, Current_norm_ED  : 0.0038
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0085
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Reunite Chill '           | C                         | 0.0001	False
+warehouses / Upper @ COCL |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[160/300] Train loss: 4.09315, Valid loss: 4.08560, Elapsed_time: 89.29093
+Current_accuracy : 0.000, Current_norm_ED  : 0.0018
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0085
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Medallist                 |                           | 0.0003	False
+Kobayashi Batons 1796350  |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[170/300] Train loss: 4.02485, Valid loss: 4.05586, Elapsed_time: 95.40037
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0085
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Andrzej >                 |                           | 0.0002	False
+Lindsey_Coge Vaqueros nuns |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[180/300] Train loss: 4.04272, Valid loss: 3.98907, Elapsed_time: 101.08104
+Current_accuracy : 0.000, Current_norm_ED  : 0.0106
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0106
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Vaishnavite Mahratta      | K                         | 0.0000	False
+GILEAD Joachim            |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[190/300] Train loss: 4.02704, Valid loss: 4.18238, Elapsed_time: 106.86672
+Current_accuracy : 0.000, Current_norm_ED  : 0.0001
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0106
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+homophones-USSR           |                           | 0.0000	False
+Eubacteria                |                           | 0.0013	False
+--------------------------------------------------------------------------------
+[200/300] Train loss: 3.94083, Valid loss: 3.98229, Elapsed_time: 113.00663
+Current_accuracy : 0.000, Current_norm_ED  : 0.0043
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0106
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+1 Meadowhawk              | C                         | 0.0000	False
+352640 Inherently         |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[210/300] Train loss: 4.02913, Valid loss: 4.02603, Elapsed_time: 118.70470
+Current_accuracy : 0.000, Current_norm_ED  : 0.0013
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0106
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+'cosmetic_Gaochang' SULPHIDE Doj |                           | 0.0000	False
+CONSOLES 4623781,0213 Hired , |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[220/300] Train loss: 3.87507, Valid loss: 3.96648, Elapsed_time: 124.39977
+Current_accuracy : 0.000, Current_norm_ED  : 0.0498
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0498
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Jehan                     | D                         | 0.0000	False
+OPTICON_GKS (             | K                         | 0.0000	False
+--------------------------------------------------------------------------------
+[230/300] Train loss: 3.86831, Valid loss: 3.95201, Elapsed_time: 130.77001
+Current_accuracy : 0.000, Current_norm_ED  : 0.0273
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0498
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Roasts Bright 32046       | C                         | 0.0000	False
+PUGET                     |                           | 0.0020	False
+--------------------------------------------------------------------------------
+[240/300] Train loss: 3.78832, Valid loss: 3.69596, Elapsed_time: 136.51373
+Current_accuracy : 0.000, Current_norm_ED  : 0.0443
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0498
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Leightonstone <           | C                         | 0.0000	False
+MARNE Subsequent          | M                         | 0.0000	False
+--------------------------------------------------------------------------------
+[250/300] Train loss: 3.80764, Valid loss: 3.88169, Elapsed_time: 142.28074
+Current_accuracy : 0.000, Current_norm_ED  : 0.0252
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0498
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+slumping * RINALDI: =     |                           | 0.0000	False
+equipped: ,               | C                         | 0.0004	False
+--------------------------------------------------------------------------------
+[260/300] Train loss: 3.71251, Valid loss: 3.64210, Elapsed_time: 148.48509
+Current_accuracy : 0.000, Current_norm_ED  : 0.0598
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0598
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Vulgate NFC ` Fuat        | K                         | 0.0000	False
+"Ethafoam" 30,142860      | K                         | 0.0000	False
+--------------------------------------------------------------------------------
+[270/300] Train loss: 3.80744, Valid loss: 3.74204, Elapsed_time: 154.25930
+Current_accuracy : 0.000, Current_norm_ED  : 0.0555
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0598
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+THY cruz @ Intervener     | M                         | 0.0000	False
+Hired #Jonas              | C                         | 0.0000	False
+--------------------------------------------------------------------------------
+[280/300] Train loss: 3.77308, Valid loss: 3.69061, Elapsed_time: 160.54600
+Current_accuracy : 0.000, Current_norm_ED  : 0.0500
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0598
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+352640 Inherently         | S                         | 0.0000	False
+Jahan = Vaguest {ESX} €   | P                         | 0.0000	False
+--------------------------------------------------------------------------------
+[290/300] Train loss: 3.61648, Valid loss: 3.65278, Elapsed_time: 166.33573
+Current_accuracy : 0.000, Current_norm_ED  : 0.0715
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0715
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+4375802 - 96180 Peril     | C                         | 0.0000	False
+justify ATV ` Parental    | W                         | 0.0000	False
+--------------------------------------------------------------------------------
+[300/300] Train loss: 3.65129, Valid loss: 3.72236, Elapsed_time: 172.24959
+Current_accuracy : 0.000, Current_norm_ED  : 0.0689
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0715
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+enjoys_inhabited } METAMATERIALS | M                         | 0.0000	False
+Pfefferman Tor            | J                         | 0.0000	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 7.08656, Valid loss: 5.49322, Elapsed_time: 3.86196
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+[10/300] Train loss: 7.25716, Valid loss: 6.89875, Elapsed_time: 4.59608
+Current_accuracy : 0.000, Current_norm_ED  : 0.0286
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0286
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | n                         | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi * | n                         | 0.0000	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 5.14044, Valid loss: 5.34912, Elapsed_time: 8.99863
+Current_accuracy : 0.000, Current_norm_ED  : 0.2379
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2379
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | ne n n n n n n n          | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | ne n n n n n              | 0.0000	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 4.51534, Valid loss: 4.01187, Elapsed_time: 14.04030
+Current_accuracy : 0.000, Current_norm_ED  : 0.0734
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2379
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | e *                       | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi * | e *                       | 0.0000	False
+--------------------------------------------------------------------------------
+[40/300] Train loss: 3.89959, Valid loss: 3.54837, Elapsed_time: 18.36481
+Current_accuracy : 0.000, Current_norm_ED  : 0.1790
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2379
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | "tre :                    | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "ti ɵñ *                  | 0.0000	False
+--------------------------------------------------------------------------------
+[50/300] Train loss: 3.32355, Valid loss: 4.25611, Elapsed_time: 22.69752
+Current_accuracy : 0.000, Current_norm_ED  : 0.1468
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2379
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | nɵe ɵ *                   | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵe:                      | 0.0000	False
+--------------------------------------------------------------------------------
+[60/300] Train loss: 2.45569, Valid loss: 2.08565, Elapsed_time: 27.06509
+Current_accuracy : 0.000, Current_norm_ED  : 0.3831
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3831
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trnhikɵn ɵ, i *          | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵebebeb :                | 0.0000	False
+--------------------------------------------------------------------------------
+[70/300] Train loss: 1.72241, Valid loss: 1.44547, Elapsed_time: 32.31519
+Current_accuracy : 0.000, Current_norm_ED  : 0.5012
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5012
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchigkɵn: ɵ, ñi *     | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbei nen ɵn:             | 0.0000	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 7.56984, Valid loss: 4.54499, Elapsed_time: 3.97603
+Current_accuracy : 0.000, Current_norm_ED  : 0.0286
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0286
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: |                           | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi * |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 6.41273, Valid loss: 4.11325, Elapsed_time: 3.88296
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+[10/300] Train loss: 7.62458, Valid loss: 4.06355, Elapsed_time: 3.99054
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * |                           | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 5.26376, Valid loss: 4.83247, Elapsed_time: 8.49735
+Current_accuracy : 0.000, Current_norm_ED  : 0.0573
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0573
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | ng                        | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi * | neg                       | 0.0000	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 4.05553, Valid loss: 3.45898, Elapsed_time: 12.93467
+Current_accuracy : 0.000, Current_norm_ED  : 0.1843
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1843
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trg *                    | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵegɵn:                   | 0.0000	False
+--------------------------------------------------------------------------------
+[40/300] Train loss: 3.46484, Valid loss: 5.52663, Elapsed_time: 17.42573
+Current_accuracy : 0.000, Current_norm_ED  : 0.1915
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1915
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | ne n:                     | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi * | ntɵeg ng *                | 0.0000	False
+--------------------------------------------------------------------------------
+[50/300] Train loss: 2.46667, Valid loss: 4.50677, Elapsed_time: 21.90656
+Current_accuracy : 0.000, Current_norm_ED  : 0.1718
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1915
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nbegɵ:                    | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi * | neigɵn:                   | 0.0000	False
+--------------------------------------------------------------------------------
+[60/300] Train loss: 1.82292, Valid loss: 3.86860, Elapsed_time: 26.34909
+Current_accuracy : 0.000, Current_norm_ED  : 0.1681
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1915
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "tn *                     | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵ g ɵ *                  | 0.0000	False
+--------------------------------------------------------------------------------
+[70/300] Train loss: 1.14951, Valid loss: 3.46537, Elapsed_time: 30.65276
+Current_accuracy : 0.000, Current_norm_ED  : 0.2363
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2363
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵ ɵn *                   | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "tehɵ ñi *                | 0.0000	False
+--------------------------------------------------------------------------------
+[80/300] Train loss: 0.50896, Valid loss: 3.00045, Elapsed_time: 34.99493
+Current_accuracy : 0.000, Current_norm_ED  : 0.4117
+Best_accuracy    : 0.000, Best_norm_ED     : 0.4117
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "tench ɵ ɵ ɵ ɵ ɵ ñi *     | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵ ɵ nanbg ɵ: *           | 0.0000	False
+--------------------------------------------------------------------------------
+[90/300] Train loss: 0.16797, Valid loss: 1.07277, Elapsed_time: 39.40749
+Current_accuracy : 0.000, Current_norm_ED  : 0.7190
+Best_accuracy    : 0.000, Best_norm_ED     : 0.7190
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchigɵgɵ ɵn: ɵ ñi *   | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyenɵg g i usrenanɵb mendabig ɵn: | 0.0000	False
+--------------------------------------------------------------------------------
+[100/300] Train loss: 0.07804, Valid loss: 0.13044, Elapsed_time: 43.82241
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.0001	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.0000	True
+--------------------------------------------------------------------------------
+[110/300] Train loss: 0.04776, Valid loss: 0.04989, Elapsed_time: 48.26595
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.0001	True
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.0049	True
+--------------------------------------------------------------------------------
+[120/300] Train loss: 0.03258, Valid loss: 0.03081, Elapsed_time: 52.59277
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.0041	True
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.0241	True
+--------------------------------------------------------------------------------
+[130/300] Train loss: 0.02364, Valid loss: 0.02154, Elapsed_time: 56.90687
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.0533	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.0155	True
+--------------------------------------------------------------------------------
+[140/300] Train loss: 0.01785, Valid loss: 0.01620, Elapsed_time: 61.17360
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.0862	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.0302	True
+--------------------------------------------------------------------------------
+[150/300] Train loss: 0.01384, Valid loss: 0.01259, Elapsed_time: 65.48246
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.1249	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.0470	True
+--------------------------------------------------------------------------------
+[160/300] Train loss: 0.01093, Valid loss: 0.00999, Elapsed_time: 69.78669
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.1655	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.0646	True
+--------------------------------------------------------------------------------
+[170/300] Train loss: 0.00875, Valid loss: 0.00799, Elapsed_time: 74.18075
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.2087	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.0840	True
+--------------------------------------------------------------------------------
+[180/300] Train loss: 0.00708, Valid loss: 0.00649, Elapsed_time: 78.52470
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.2487	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.1045	True
+--------------------------------------------------------------------------------
+[190/300] Train loss: 0.00580, Valid loss: 0.00536, Elapsed_time: 82.83065
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.2942	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.1208	True
+--------------------------------------------------------------------------------
+[200/300] Train loss: 0.00479, Valid loss: 0.00443, Elapsed_time: 87.16671
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.3338	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.1405	True
+--------------------------------------------------------------------------------
+[210/300] Train loss: 0.00399, Valid loss: 0.00371, Elapsed_time: 91.53813
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.3718	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.1578	True
+--------------------------------------------------------------------------------
+[220/300] Train loss: 0.00337, Valid loss: 0.00314, Elapsed_time: 95.95532
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.4094	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.1720	True
+--------------------------------------------------------------------------------
+[230/300] Train loss: 0.00287, Valid loss: 0.00268, Elapsed_time: 100.33701
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.1896	True
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.4387	True
+--------------------------------------------------------------------------------
+[240/300] Train loss: 0.00246, Valid loss: 0.00230, Elapsed_time: 104.74845
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.2159	True
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.4646	True
+--------------------------------------------------------------------------------
+[250/300] Train loss: 0.00214, Valid loss: 0.00201, Elapsed_time: 109.21256
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.4906	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.2223	True
+--------------------------------------------------------------------------------
+[260/300] Train loss: 0.00188, Valid loss: 0.00178, Elapsed_time: 113.57436
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.5173	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.2359	True
+--------------------------------------------------------------------------------
+[270/300] Train loss: 0.00166, Valid loss: 0.00157, Elapsed_time: 117.86976
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.5357	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.2631	True
+--------------------------------------------------------------------------------
+[280/300] Train loss: 0.00148, Valid loss: 0.00141, Elapsed_time: 122.19569
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.2815	True
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.5628	True
+--------------------------------------------------------------------------------
+[290/300] Train loss: 0.00133, Valid loss: 0.00127, Elapsed_time: 126.53001
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.5773	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.2803	True
+--------------------------------------------------------------------------------
+[300/300] Train loss: 0.00121, Valid loss: 0.00115, Elapsed_time: 130.90432
+Current_accuracy : 100.000, Current_norm_ED  : 1.0000
+Best_accuracy    : 100.000, Best_norm_ED     : 1.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | 0.5861	True
+"trenchibig kɵn: Isa gɵmɵ, ñi * | "trenchibig kɵn: Isa gɵmɵ, ñi * | 0.3001	True
+--------------------------------------------------------------------------------
+[10/300] Train loss: 6.62312, Valid loss: 6.88266, Elapsed_time: 3.92997
+Current_accuracy : 0.000, Current_norm_ED  : 0.0750
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0750
+[10/300] Train loss: 7.24137, Valid loss: 5.31786, Elapsed_time: 4.04575
+Current_accuracy : 0.000, Current_norm_ED  : 0.0297
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0297
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | n                         | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, ñi | n                         | 0.0000	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 5.38816, Valid loss: 4.71679, Elapsed_time: 8.59632
+Current_accuracy : 0.000, Current_norm_ED  : 0.0672
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0672
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi |                           | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | nen                       | 0.0000	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 5.56190, Valid loss: 4.42685, Elapsed_time: 13.12274
+Current_accuracy : 0.000, Current_norm_ED  : 0.1362
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1362
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, ñi | "te i                     | 0.0000	False
+nɵbe ɵyeeg chib kusrenanɵb mendabig kɵn: | neni                      | 0.0000	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 6.13496, Valid loss: 5.80693, Elapsed_time: 3.94269
+Current_accuracy : 0.000, Current_norm_ED  : 0.1000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1000
+[10/300] Train loss: 6.86139, Valid loss: 6.98123, Elapsed_time: 3.99788
+Current_accuracy : 0.000, Current_norm_ED  : 0.0500
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0500
+[10/300] Train loss: 2.13536, Valid loss: 2.09303, Elapsed_time: 10.52767
+Current_accuracy : 0.000, Current_norm_ED  : 0.0332
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0332
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen tru urastɵ nɵmbe nɵmui atarrayasmeran warɵb, nɵba ambuptinchibelɵ gɵn." | n                         | 0.0000	False
+"Inchen Herodesbe tru srɵmbalasrɵ estrellameran ashib kusrebelan mu ashmɵwatɵ wama, estrellabe tappe chu uras kenamisrigwan payibig kɵn." | mnininininininininininin  | 0.0000	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 1.93139, Valid loss: 2.11615, Elapsed_time: 14.02086
+Current_accuracy : 0.000, Current_norm_ED  : 0.0636
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0636
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Ramá pueblosrɵ kan wam mɵrig kɵn cha. Truibe kan truba rruba isuig wamab kishib, tru Raquel nui uregweimburab isua, kishibig kɵn. Incha kishmɵ, ka awentau taingucha, awentanrrab gaimabig kɵn cha, kaguende yandɵ ureemera chab gwaikken gɵben." | na                        | 0.0000	False
+"Inchen Josébe kurra, unanba usranba Israel birausrɵmay pera, ibig kɵn." | na                        | 0.0000	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 1.83662, Valid loss: 1.77090, Elapsed_time: 17.99147
+Current_accuracy : 0.000, Current_norm_ED  : 0.0170
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0636
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Arambe Aminadabwei mɵskain gɵben; Aminadabpe Naasónwei mɵskain gɵbig kɵn. Inchen Naasónbe Salmónwei mɵskaingue. | "."                       | 0.0000	False
+"Mayanguen tab gúilɵ gɵn cha, tru larrɵ tammayelɵ lata lata inchimeelaimbe. Kaguende nɵmbe tru pirɵwan Tius trannrrab misrigwan ketig utɵnrrun cha." | "."                       | 0.0000	False
+--------------------------------------------------------------------------------
+[40/300] Train loss: 1.77057, Valid loss: 1.58686, Elapsed_time: 21.04220
+Current_accuracy : 0.000, Current_norm_ED  : 0.0192
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0636
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Incha Jesúsbe katɵguchi mas ambuurɵ yabe, katɵgan pa nunelɵ warai ashibig kɵn, truilɵbe Zebedeowei nusrkalɵ, Santiagoba, Juanba. Nɵmbe nui mɵskaimba barcoyu atarrayamera kɵlsrailan tamarɵb purrɵbene, Jesúsbe tru nusrkalan wamabig kɵn." | "n."                      | 0.0000	False
+Inchen Jesúsbe trenchibig kɵn: Katɵ Tiuswei wamwan pɵrigube treekkucha chibig kɵn cha: Ñui Señor Tiuswane ke chinchibig kɵtashchab lataikkucha maramig kɵmɵn cha. | "."                       | 0.0000	False
+--------------------------------------------------------------------------------
+[50/300] Train loss: 1.76200, Valid loss: 1.71919, Elapsed_time: 23.98828
+Current_accuracy : 0.000, Current_norm_ED  : 0.1275
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1275
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Incha yau kebambabe, unamba, usri Maríanba ashabe, tɵmbɵnsra, kɵriibala tabig wamincha, nɵmui ketamelan kura, oro gɵben, incienso gɵben, mirra gɵben ketɵbelɵ gɵn." | "n a  a             n n." | 0.0000	False
+Arambe Aminadabwei mɵskain gɵben; Aminadabpe Naasónwei mɵskain gɵbig kɵn. Inchen Naasónbe Salmónwei mɵskaingue. | "n         a  an."        | 0.0000	False
+--------------------------------------------------------------------------------
+[60/300] Train loss: 1.65642, Valid loss: 1.48063, Elapsed_time: 27.84689
+Current_accuracy : 0.000, Current_norm_ED  : 0.1333
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1333
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen Juanbe fariseosmera gɵben, saduceosmera gɵben, truba nɵrrɵ nɵ piu umbu ulsrailɵ gɵnrrab amrrui ashabe, trenchibig kɵn: ¡Ñimbe ul lataig inchib misaamera! ¿Ñimune mu eshkata cha, Tiuswei purɵ gɵrig kɵmdiig ñimuim bala attrabig pub pasrabigugurri wegɵrrɵnrraimbe?" | "n      n n."             | 0.0000	False
+"Juan Bautistan kailan keeri yau keerin gɵn daig Jesús wammɵrabe, Galileamay ibig kɵn." | "In            n."        | 0.0000	False
+--------------------------------------------------------------------------------
+[70/300] Train loss: 1.59187, Valid loss: 1.77085, Elapsed_time: 31.18886
+Current_accuracy : 0.000, Current_norm_ED  : 0.1708
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1708
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Judea birau, ñi Belén pueblounɵbe, tru birau purɵ wamindig ciudamerai utu ñibe chigucha gɵmɵzhig lataig kɵnrrab gɵmɵ, purɵ nuig kɵn cha. Kaguende ñuinukkurrimbe misagwan ashib karunrrabig kan webattrun cha, nai Israel misagwan nɵ pera marɵb ashib pasrɵnrrabig." | "n n n n n n nn nn n."    | 0.0000	False
+"trenchibig kɵn: Isa gɵmɵ, tru ñi Tiuswei Nusrkain guabe, pirausrɵ pɵrsrau cha. Kaguende Tiuswei wamyube trenchibig pɵrig pasran cha:* | "n nn n nn nn nn n nn nn n nn n n n n nn." | 0.0000	False
+--------------------------------------------------------------------------------
+[80/300] Train loss: 1.50190, Valid loss: 1.61168, Elapsed_time: 34.80232
+Current_accuracy : 0.000, Current_norm_ED  : 0.2489
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2489
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen Jesúsbe trencha lɵtabig kɵn: Tiuswei wamwan pɵrigube trenchibig kɵn cha: Mɵɵbe pirrindɵgatɵ ɵsig tsumɵtɵ, kerrigu Tiuswei wamdɵgagucha tsumig kɵn cha." | "nen ne en ninien nie negen n nien nie en nen nen nien nienen." | 0.0000	False
+"Salmónbe Boozwei mɵskain gɵben, nui usrimbe Rahab gɵbig kɵn. Boozbe Obedwei mɵskain gɵben, nui usrimbe Rut gɵbig kɵn. Obedbe Isaíwei mɵskain gɵben," | "nene e gnenie egegnen nien ne gnenien nen nien nen niengn." | 0.0000	False
+--------------------------------------------------------------------------------
+[90/300] Train loss: 1.45567, Valid loss: 1.46295, Elapsed_time: 39.23317
+Current_accuracy : 0.000, Current_norm_ED  : 0.2282
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2489
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Tru kusrebelɵbe rey ɵyeeg eshkailɵ ambubelɵ gɵn. Inchen estrella tru pɵrr gallabgatɵsrɵ asiibe nɵmui merraptɵ ya, yandɵ tru unɵ tsuim bala pasramisren," | "Incn n mn mn mn n nn mn n n mn mn mn mnn n mn n n mn n mn." | 0.0000	False
+"Inchen Josíasbe Jeconíasweimba, nunelaimba mɵskain gɵbig kɵn, tru israelitasmeran Babiloniamay merrarrawa srua ambub uras." | "Incn mn n mn mn ɵn n n mn mn mn cn n n." | 0.0000	False
+--------------------------------------------------------------------------------
+[100/300] Train loss: 1.47609, Valid loss: 1.90553, Elapsed_time: 42.99122
+Current_accuracy : 0.000, Current_norm_ED  : 0.0491
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2489
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Kurra, unanba usranba pera, Israel birausrɵmay katɵ inrrɵ cha. Kaguende unan kwetchab inchibelɵbe yandɵ chab gwan cha." | "    "                    | 0.0000	False
+Inchen Jesúsbe trenchiptinchibig kɵn: Mɵimbatɵbe ɵyamay ka mar cha. Tius tru sɵlgandɵ tabig maramigwane nambe kutɵgue ɵyamay maramig kɵn cha. Inchen Juanbe ka treeg marɵbig kɵn. | ""                        | 0.0000	False
+--------------------------------------------------------------------------------
+[110/300] Train loss: 1.39274, Valid loss: 1.56610, Elapsed_time: 46.07769
+Current_accuracy : 0.000, Current_norm_ED  : 0.0932
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2489
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Jesúsbe trenchiptinchibig kɵn: Nai mendig amrruy cha. Nabe ñimune misaameran peskabelɵ gɵnrrai maramɵnrrun cha. | "  n   m        a."       | 0.0000	False
+"Incha nugwaimandziibe Jesúswan Jerusalén tru Tiusweindɵ tarɵmari ciudasrɵmay srua ya, tru Tiuswei yau purɵ balasrɵ pasrabe," | "nc e  m   m  m   m   an." | 0.0000	False
+--------------------------------------------------------------------------------
+[120/300] Train loss: 1.35483, Valid loss: 1.50568, Elapsed_time: 49.69183
+Current_accuracy : 0.000, Current_norm_ED  : 0.2590
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2590
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Ramá pueblosrɵ kan wam mɵrig kɵn cha. Truibe kan truba rruba isuig wamab kishib, tru Raquel nui uregweimburab isua, kishibig kɵn. Incha kishmɵ, ka awentau taingucha, awentanrrab gaimabig kɵn cha, kaguende yandɵ ureemera chab gwaikken gɵben." | "ncn n n n n cn n n n n cn." | 0.0000	False
+Zorobabelbe Abiudwei mɵskain gɵben; Abiudbe Eliaquimwei mɵskain gɵben; Eliaquimbe Azorwei mɵskain gɵbig kɵn. | "Incbebe, chbben ɵben gɵbn, hbben hiɵenen mɵben cɵben higbe nen ɵbn gɵbe kɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[130/300] Train loss: 1.26651, Valid loss: 1.50935, Elapsed_time: 53.78572
+Current_accuracy : 0.000, Current_norm_ED  : 0.2885
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2885
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Salmónbe Boozwei mɵskain gɵben, nui usrimbe Rahab gɵbig kɵn. Boozbe Obedwei mɵskain gɵben, nui usrimbe Rut gɵbig kɵn. Obedbe Isaíwei mɵskain gɵben," | "Inhnhɵnɵangɵnɵankhɵngɵgɵnkhɵankhɵknɵangɵnɵanhngɵngnchɵanɵnɵngɵn." | 0.0000	False
+"Tru kusrebelɵbe rey ɵyeeg eshkailɵ ambubelɵ gɵn. Inchen estrella tru pɵrr gallabgatɵsrɵ asiibe nɵmui merraptɵ ya, yandɵ tru unɵ tsuim bala pasramisren," | "Inchnrhanrnrɵanɵanɵanranɵanaɵnranrnran nɵnrananran." | 0.0000	False
+--------------------------------------------------------------------------------
+[140/300] Train loss: 1.20422, Valid loss: 1.34552, Elapsed_time: 57.89442
+Current_accuracy : 0.000, Current_norm_ED  : 0.3312
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3312
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Kerrigu ɵyeeg pureppe, Tius maig karuigwan eshkabigwan Señor truigwan ɵyah taig nebunrrai treeg kuig kɵn" | "Ing, uig kuran, ua nig kun gn nign aan uign un ig nunra urig uig kn." | 0.0000	False
+"Yandɵ tru kusreb mɵguelɵ chab amben, Señorwei kan ángel Joséwan piabyu kenamisrabe, trenchibig kɵn: Kurra, unan usranba perɵb Egiptosrɵmay trubab inrrɵ cha. Incha trusrɵ na eshkamnegatig kɵrrɵmisrtrig cha. Kaguende Herodesbe unan kwetchab lanrrab gɵn cha." | "Inchn agun rurn hun g tun u mrn nban tn urnurn gurn a n tun uarig rn gurn tuan n ra rn gn." | 0.0000	False
+--------------------------------------------------------------------------------
+[150/300] Train loss: 1.13538, Valid loss: 1.30303, Elapsed_time: 62.43480
+Current_accuracy : 0.000, Current_norm_ED  : 0.3277
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3312
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"trenchibig kɵn: Isa gɵmɵ, tru ñi Tiuswei Nusrkain guabe, pirausrɵ pɵrsrau cha. Kaguende Tiuswei wamyube trenchibig pɵrig pasran cha:* | "Ichaera raoasi ae rsrsraiari rarsriuiasra kariwe sria rsaira rsawrssi swmrha" | 0.0000	False
+Inchen Eliudbe Eleazarwei mɵskain gɵben; Eleazarbe Matánwei mɵskain gɵben; Matánbe Jacobwei mɵskain gɵben; | "Inche Jabe oai sab pabe Jasbe Ja msbe ɵbe Jasbe Jaai asab ɵban." | 0.0000	False
+--------------------------------------------------------------------------------
+[160/300] Train loss: 1.07313, Valid loss: 2.01271, Elapsed_time: 66.36916
+Current_accuracy : 0.000, Current_norm_ED  : 0.1621
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3312
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Uzíasbe Jotamwei mɵskain gɵben; Jotambe Acazwei mɵskain gɵben; Acazbe Ezequíaswei mɵskain gɵbig kɵn. | "n cn n n; cn; n n n; n n n n n. | 0.0000	False
+Inchen nɵmbe trenchibelɵ gɵn: Judea birau Belén cha. Kaguende Tius maig karuigwan eshkabig ɵyah pɵrig kɵn cha: | "In n nan n. nan n n cn nagn n n kɵnagn nɵan n n n cn." | 0.0000	False
+--------------------------------------------------------------------------------
+[170/300] Train loss: 1.19989, Valid loss: 1.43234, Elapsed_time: 69.91433
+Current_accuracy : 0.000, Current_norm_ED  : 0.3183
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3312
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru sɵlgandɵ tabigwan kan parɵgwaig mɵrɵb lataig, pi mulgwaig mɵrɵb lataig inchibelaimbe. Kaguende maig isua palai melaigwan Tiusbe nɵmun nɵrrɵ traniilɵ gɵnrrun cha." | "Incab bgɵgɵ kɵ kugbgɵ kɵ gɵgag ɵbig kɵigig kɵb bg kb kgab ɵgbɵgkb kbgbɵ kɵb kab kbi kɵb gɵha" | 0.0000	False
+"Judábe Faresweimba, Zaraimba mɵskain gɵben, tru uregwei usrimbe Tamar gɵbig kɵn. Faresbe Esromwei mɵskain gɵben; Esrombe Aramwei mɵskain gɵbig kɵn." | "Iab bab kɵb kɵb gɵbɵ ɵ ɵgb ɵb ɵ gɵbg kɵ kab kab kɵb ɵbɵ pab bab kɵb gɵg kɵ." | 0.0000	False
+--------------------------------------------------------------------------------
+[180/300] Train loss: 1.00503, Valid loss: 1.27494, Elapsed_time: 74.58095
+Current_accuracy : 0.000, Current_norm_ED  : 0.3655
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3655
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Nɵbe treeg martrab chab isubguen inchen, Señorwei kan ángel piabyu kenamisrabe trenchibig kɵn: José, ñi Davidwei misagugurri arrubig, Marían ñui srain gɵnrrai utamigwan kɵrig kui inchimɵta cha. Kaguende tru unɵ tɵgagɵmibe Espíritu Santoin gɵn cha." | "ngyab bgɵ bɵ kaibagbɵg kab kbaigɵ ɵg kabi gɵaɵg kɵ kaigɵ ɵgɵ kbgbiɵ ɵ gɵribagɵi gɵ kɵgɵ." | 0.0000	False
+"Inchen tru urastɵ nɵmbe nɵmui atarrayasmeran warɵb, nɵba ambuptinchibelɵ gɵn." | "Ianchban ɵa ɵrai ɵab ɵai ɵairagama ɵab, ɵabi ɵaibigria kbɵbi gɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[190/300] Train loss: 1.00540, Valid loss: 2.18348, Elapsed_time: 78.90329
+Current_accuracy : 0.000, Current_norm_ED  : 0.1633
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3655
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Nɵbe treeg martrab chab isubguen inchen, Señorwei kan ángel piabyu kenamisrabe trenchibig kɵn: José, ñi Davidwei misagugurri arrubig, Marían ñui srain gɵnrrai utamigwan kɵrig kui inchimɵta cha. Kaguende tru unɵ tɵgagɵmibe Espíritu Santoin gɵn cha." | "chb kbkbkbkbkbkbkbkbkbkbkbkh" | 0.0000	False
+"trusrɵ tru Herodes kwamnegatig waraig kɵbig kɵn. Ɵyeeg nebuppe, Tius maig karuigwan eshkabikkurri ɵyah taig, truig nebunrrain gúig kɵn: Nai Nusrkawan Egiptogurri wamar taig." | "hbhbhbkbkbkbe kbkbe khbkhbkibkbekb kbkbebkbken hbei kbekbekb | 0.0000	False
+--------------------------------------------------------------------------------
+[200/300] Train loss: 0.93160, Valid loss: 1.15996, Elapsed_time: 82.72065
+Current_accuracy : 0.000, Current_norm_ED  : 0.3476
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3655
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen reybe sacerdotesmeran karubelanba, tru Moisés pɵrigwan kusrenanɵbelanba wama, payibig kɵn: ¿Cristobe chu gallanrrabig kɵ? cha." | "Inchencnabencaleen aelnbe, Iu Jiaenpeigen Jaeenlebe ce, gabig kɵn Jlbecheglenbig ken:cha." | 0.0000	False
+"Inchen nugwaimandziibe nuinukkurri tarɵmisren, ángelesmera amrrua, purugubelɵ gɵn Jesúswan." | "Inchencnugnblben nebeni gaen giglee e, gngclbengɵn Jen." | 0.0000	False
+--------------------------------------------------------------------------------
+[210/300] Train loss: 0.87021, Valid loss: 1.06481, Elapsed_time: 87.28501
+Current_accuracy : 0.000, Current_norm_ED  : 0.3736
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3736
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen rey Herodesbe trendaigwan mɵrabe, ni mumaygucha gɵmui inchibig kɵn. Inchen katɵ Jerusalén misaamerangucha treetɵweim bubig kɵn." | "Inere cheekigwe mɵbe kigi gebig kɵn ksrcheri keei chsrige ksrn kaig kɵn." | 0.0000	False
+"Incha yandɵ nɵmune piabyu Herodesweimburab ammɵnrrain cha, eshkailɵ gua, nɵmui pirausrɵmaybe peg maywan ambubelɵ gɵn." | "Iche pee mɵmrn pɵbe kereweiberab ɵrmeraen chbe ɵshkali gɵn ɵri pliseemɵbe ɵg ɵwen ɵshskiɵ ɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[220/300] Train loss: 0.92288, Valid loss: 1.12589, Elapsed_time: 91.37694
+Current_accuracy : 0.000, Current_norm_ED  : 0.3868
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3868
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen Juanbe fariseosmera gɵben, saduceosmera gɵben, truba nɵrrɵ nɵ piu umbu ulsrailɵ gɵnrrab amrrui ashabe, trenchibig kɵn: ¡Ñimbe ul lataig inchib misaamera! ¿Ñimune mu eshkata cha, Tiuswei purɵ gɵrig kɵmdiig ñimuim bala attrabig pub pasrabigugurri wegɵrrɵnrraimbe?" | "In nr trmr ui mr in mr rmi mi r rmr rai mriu tu tu mi mrn tur rmi mur rmi tu rmi rmiu rn." | 0.0000	False
+"Incha José tru piabyugurri kiagasrabe, Señorwei ángel maig karuig kɵben treeg mara, Maríane nui srain gɵnrrai kɵrrɵmarɵbig kɵn." | "Inch tri tru mirur trgurhb, irn truyi mrig krig kɵn mrg mr, tirre tru rin eri trmri kn." | 0.0000	False
+--------------------------------------------------------------------------------
+[230/300] Train loss: 0.84302, Valid loss: 1.41465, Elapsed_time: 95.64066
+Current_accuracy : 0.000, Current_norm_ED  : 0.2733
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3868
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Jesúsbe Galilea birau ɵrɵba llirab ibig kɵn, judíosmera tulundzuni yamɵrig Tius nɵ ashib karub pasrainuguig tabig srɵ wamwan eshkab kusrenanɵb. Incha misaameran chi gwanrreelan gɵben, chi busrkwailan gɵben tamarɵbig kɵn." | "Inhnmnhmnuhbun mhmny hmrmimymymimn miym umn nhmymnh." | 0.0000	False
+Inchen srɵmbalasrɵngurri kan wam trenchib waminchibig kɵn: Iibe nai Nusrkai undaaraig kɵn cha. Nabe nuimburab truba tab gúi war cha | "Incm mng mɵn nhmnmn my mɵnhn nmn mn gɵu mnch" | 0.0000	False
+--------------------------------------------------------------------------------
+[240/300] Train loss: 0.77556, Valid loss: 0.89184, Elapsed_time: 99.97809
+Current_accuracy : 0.000, Current_norm_ED  : 0.4397
+Best_accuracy    : 0.000, Best_norm_ED     : 0.4397
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Azorbe Sadocwei mɵskain gɵben; Sadocbe Aquimwei mɵskain gɵbig kɵn. Inchen Aquimbe Eliudwei mɵskaingue. | "Inbe haseei mkain guben Iasbe tamei mabain gabag kɵn. Inuhaen tabe hiasei mɵamaun." | 0.0000	False
+"Inchen cuarenta días yem gwalɵm chigucha mamɵwa, yandɵ parɵgwai mɵrɵbig kɵn." | "Inchen maan chlan yan gywn chbaguchan maa, yabe paragwai mɵrbag kɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[250/300] Train loss: 0.80351, Valid loss: 0.71115, Elapsed_time: 104.43005
+Current_accuracy : 0.000, Current_norm_ED  : 0.5187
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5187
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Incha José tru piabyugurri kiagasrabe, Señorwei ángel maig karuig kɵben treeg mara, Maríane nui srain gɵnrrai kɵrrɵmarɵbig kɵn." | "Incha kab kra pabagur kagarabe Sabarwei kagei rɵag karag kɵben traig mɵa, Aasrae tra pai gɵra kɵraɵrarabig kɵn." | 0.0000	False
+"Inchen reybe sacerdotesmeran karubelanba, tru Moisés pɵrigwan kusrenanɵbelanba wama, payibig kɵn: ¿Cristobe chu gallanrrabig kɵ? cha." | "Inchen raybe asedlasmrɵan karabeanba, tru ha pɵrgwan kareaɵblasba rara pabig kɵn; chaslbaechagabaerabig kɵ cha." | 0.0000	False
+--------------------------------------------------------------------------------
+[260/300] Train loss: 0.69366, Valid loss: 1.25729, Elapsed_time: 108.90648
+Current_accuracy : 0.000, Current_norm_ED  : 0.3667
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5187
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen Herodes nun tru kusreb mɵguelɵ isin gúi mɵrabe, truba rruba nama, tru kusreb mɵguelɵ tru ureg chu uras kallaigwan eshkaigwan, trunun cuenta mara kallaingurrimbunɵ pa bilagatiguelɵ Belén pɵtɵgatan warabelan kerriguba kwetchain garubig kɵn." | "Inche enrtabenyke tɵnrren traɵeienenrhben chben tɵnrnchbecrhenchbehe ɵen nbenrabienhɵhn" | 0.0000	False
+"Incha ñimbe ñimasiitɵ ɵyeeg chib mendɵmɵtay cha: ""Nambe Abrahamwei misaamera guer"" chib. Kaguende nabe trendamɵnrrun cha: Tiusbe i sruumeranguen Abrahamwei misaamera gɵnrrai marɵg kɵbene, martrun cha." | "Inche heben henɵɵe en Iɵb heen hɵn ɵn hb kɵene nan nɵaɵenca tɵn nɵreɵgn keben tɵn ɵnɵgbɵn nɵnch" | 0.0000	False
+--------------------------------------------------------------------------------
+[270/300] Train loss: 0.62880, Valid loss: 0.65470, Elapsed_time: 113.66108
+Current_accuracy : 0.000, Current_norm_ED  : 0.5441
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5441
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen Jesúsbe trencha lɵtabig kɵn: Tiuswei wamwan pɵrigube trenchibig kɵn cha: Mɵɵbe pirrindɵgatɵ ɵsig tsumɵtɵ, kerrigu Tiuswei wamdɵgagucha tsumig kɵn cha." | "In; Jacbe trerigklibgke, TSsei usman pɵigle krcibgkɵn cha, kɵebe, pribgplɵ aig kusrb, arig Tsei aribgckbkaig kɵn ch." | 0.0000	False
+"trenchib eshkab kusrenanɵb arrubig kɵn: Kaig mariilan isua mɵra, Tiusweimay lliray chib. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe lutau basran cha." | "Inchb cdbab karmɵib rmbig kɵn. Ebig wɵrlbe tus wrn, Tiaswmen lɵe, cha. gweib wɵben ba rsib ri rab tɵn kern ch." | 0.0000	False
+--------------------------------------------------------------------------------
+[280/300] Train loss: 0.59446, Valid loss: 0.67448, Elapsed_time: 118.18308
+Current_accuracy : 0.000, Current_norm_ED  : 0.5510
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5510
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Tru Tius maig karuigwan eshkabig Isaías ɵyah pɵrig Juanbe truig kuig kɵn: Kan wam mu misag warab waraimɵnug trenchib trasan, daig: ""Señorwei maywan tamarɵb, nuyasig maymerane ɵlmarɵb inday,"" chib." | "Inchctai keaen chabka trhni kanhni hi kn. ka ras sraig writasan trskhran ta. katrtaimri kari tmi trn haska.a." | 0.0000	False
+"Incha nugwaimandziibe Jesúswan Jerusalén tru Tiusweindɵ tarɵmari ciudasrɵmay srua ya, tru Tiuswei yau purɵ balasrɵ pasrabe," | "Incha nugeaimasabe Iaswan Amrsalen tau Aiuseimbe aramai iasaswma tma a, tru Naswei pa para kamɵ gasrabe." | 0.0000	False
+--------------------------------------------------------------------------------
+[290/300] Train loss: 0.54712, Valid loss: 1.22413, Elapsed_time: 122.73625
+Current_accuracy : 0.000, Current_norm_ED  : 0.3192
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5510
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen reybe sacerdotesmeran karubelanba, tru Moisés pɵrigwan kusrenanɵbelanba wama, payibig kɵn: ¿Cristobe chu gallanrrabig kɵ? cha." | "Incupu uiuui gubuuibg pu piub guigui puubbubu uaig guig gɵn giuiguiuruig gui g" | 0.0000	False
+"Jesúsbe Galilea birau ɵrɵba llirab ibig kɵn, judíosmera tulundzuni yamɵrig Tius nɵ ashib karub pasrainuguig tabig srɵ wamwan eshkab kusrenanɵb. Incha misaameran chi gwanrreelan gɵben, chi busrkwailan gɵben tamarɵbig kɵn." | "Iuhbibu ui ib pgpu irnruiug puiuiupigumuib uwb puiunupgwigpb piuigiuiguɵg | 0.0000	False
+--------------------------------------------------------------------------------
+[300/300] Train loss: 0.51563, Valid loss: 0.50015, Elapsed_time: 127.26177
+Current_accuracy : 0.000, Current_norm_ED  : 0.5914
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5914
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Arambe Aminadabwei mɵskain gɵben; Aminadabpe Naasónwei mɵskain gɵbig kɵn. Inchen Naasónbe Salmónwei mɵskaingue. | "Jambe Aiuadabei mɵskain gɵben; Aiuabe Nasiwei mɵskan gɵbig kɵn. Iucben Nasibe laimbiwe mɵskaigue." | 0.0000	False
+"Incha ñimbe ñimasiitɵ ɵyeeg chib mendɵmɵtay cha: ""Nambe Abrahamwei misaamera guer"" chib. Kaguende nabe trendamɵnrrun cha: Tiusbe i sruumeranguen Abrahamwei misaamera gɵnrrai marɵg kɵbene, martrun cha." | "Iachab babeg besabsa ba, Sab balame iamnge b pguwsb uae rsasamnrba Nai usagu babaeiamn gumsiagbln naiura | 0.0000	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 2.25016, Valid loss: 2.07519, Elapsed_time: 2.32096
+Current_accuracy : 0.000, Current_norm_ED  : 0.0598
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0598
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen cuarenta días yem gwalɵm chigucha mamɵwa, yandɵ parɵgwai mɵrɵbig kɵn." |  a a a a a a a a a a      | 0.0000	False
+"Ibe Jesucristoi merrabsrɵ misaamerai munchimera gɵn, tru Davidweinukkurrimba, Abrahamweinukkurrimba amrrub misag:" |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 1.87086, Valid loss: 1.88346, Elapsed_time: 5.82697
+Current_accuracy : 0.000, Current_norm_ED  : 0.1416
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1416
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Inchen srɵmbalasrɵngurri kan wam trenchib waminchibig kɵn: Iibe nai Nusrkai undaaraig kɵn cha. Nabe nuimburab truba tab gúi war cha | ra a a a a a a a a a a a a a a a a a | 0.0000	False
+"Judábe Faresweimba, Zaraimba mɵskain gɵben, tru uregwei usrimbe Tamar gɵbig kɵn. Faresbe Esromwei mɵskain gɵben; Esrombe Aramwei mɵskain gɵbig kɵn." | a a a a a a a a a         | 0.0000	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 1.89938, Valid loss: 1.85379, Elapsed_time: 9.94437
+Current_accuracy : 0.000, Current_norm_ED  : 0.0751
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1416
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Juan Bautistan kailan keeri yau keerin gɵn daig Jesús wammɵrabe, Galileamay ibig kɵn." | " ."                      | 0.0000	False
+Azorbe Sadocwei mɵskain gɵben; Sadocbe Aquimwei mɵskain gɵbig kɵn. Inchen Aquimbe Eliudwei mɵskaingue. | " ."                      | 0.0000	False
+--------------------------------------------------------------------------------
+[40/300] Train loss: 1.75539, Valid loss: 1.54767, Elapsed_time: 13.40061
+Current_accuracy : 0.000, Current_norm_ED  : 0.0758
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1416
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Kerrigu ɵyeeg pureppe, Tius maig karuigwan eshkabigwan Señor truigwan ɵyah taig nebunrrai treeg kuig kɵn" | "              ."         | 0.0000	False
+"Katɵbe nugwaimandziibe kan truba bala tunsrɵmay srua yabe, yu pirau chutɵgucha nɵrreelɵ tru nɵm ashib karub purrailanba, katɵ nɵmui chigurrimbunɵ tabig tɵrig tɵgagúigwanba kenamarabe" | "."                       | 0.0000	False
+--------------------------------------------------------------------------------
+[50/300] Train loss: 1.63653, Valid loss: 1.55307, Elapsed_time: 16.51008
+Current_accuracy : 0.000, Current_norm_ED  : 0.1271
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1416
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen Josébe kurra, unan usranba pera, yem Egiptosrɵmay webya, ya," | "I               n."      | 0.0000	False
+"Jesús Galilea nu bisu mendawan ib pasrɵwabe, pa nunelan ashibig kɵn, kane Simón, truigwane katɵ Pedrogucha taig, kane Andrés taig. Truilɵbe peskabelɵ gua, nɵmui atarrayameran piyu keguchib warɵben," | "          n."            | 0.0000	False
+--------------------------------------------------------------------------------
+[60/300] Train loss: 1.60488, Valid loss: 1.47837, Elapsed_time: 20.21300
+Current_accuracy : 0.000, Current_norm_ED  : 0.1335
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1416
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Kurra, unanba usranba pera, Israel birausrɵmay katɵ inrrɵ cha. Kaguende unan kwetchab inchibelɵbe yandɵ chab gwan cha." | "I               n n."    | 0.0000	False
+"Kerrigu ɵyeeg pureppe, Tius maig karuigwan eshkabigwan Señor truigwan ɵyah taig nebunrrai treeg kuig kɵn" | "I              ."        | 0.0000	False
+--------------------------------------------------------------------------------
+[70/300] Train loss: 1.46019, Valid loss: 1.53972, Elapsed_time: 23.56522
+Current_accuracy : 0.000, Current_norm_ED  : 0.2353
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2353
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Uzíasbe Jotamwei mɵskain gɵben; Jotambe Acazwei mɵskain gɵben; Acazbe Ezequíaswei mɵskain gɵbig kɵn. | "Inan an an an an an an an an an an an ɵn." | 0.0000	False
+"Nɵbe kan mɵgunɵ tɵgagɵben, truigwane Jesús munchi basrtrig chibig kɵn. Nɵbe ɵyeeg wamig kɵnrrun chibig kɵn, kaguende nui misagwan kaig mariilɵyugurri wesranrrabig kuimba" | "In na an an an a a an an an an a an anan an aan an anan nan." | 0.0000	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 2.09232, Valid loss: 2.05592, Elapsed_time: 2.40400
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Jesúswane Siria birausrɵ kerrigu wammɵra gua, mayan gwanrreelan srua amrrubelɵ gɵn. Tru chi gwanrrɵ gɵben tɵgarmeran, katɵ ni mumayguen tab gɵmui mɵrɵb inchibelan, tru kwaimandziimera tɵgarmeran gɵben, itɵnab pesannabig tɵgarmeran gɵben, kɵnɵnrrab gaimabelan gɵben srua amrrubelɵ gɵn. Inchen Jesúsbe tamarɵbig kɵn." |                           | 0.0000	False
+"Inchen misaamera galileasreelɵ gɵben, decapolissreelɵ gɵben, jerusalénsreelɵ gɵben, judeasreelɵ gɵben, Jordán bi tru pɵrr gallabgatɵsreelɵ gɵben Jesúswei mendig truba nu ambubelɵ gɵn." |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 1.91752, Valid loss: 1.82360, Elapsed_time: 6.04351
+Current_accuracy : 0.000, Current_norm_ED  : 0.0339
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0339
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Srɵtɵbe Juanbe nune piu umbu ulsrɵg kɵmui incha, trenchibig kɵn: Nane ñiguen rreeg marig kɵmdiig kɵbendɵ, ¿ñiguen nan attirru? cha." | "a nɵ                     | 0.0000	False
+"Jerusalén misaameraba, mayeelɵ Judea birau misaameraba, Jordán bi buluwanelɵba nun mɵrtrab werrubelɵ gɵn." | " a nɵ                    | 0.0000	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 1.77232, Valid loss: 1.88897, Elapsed_time: 9.33897
+Current_accuracy : 0.000, Current_norm_ED  : 0.1265
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1265
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tius mandɵ martrai miaigwan marikkurri kaig martraindinab kaig nebui melabelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuin gɵn cha." | "a a a i i in i ian."     | 0.0000	False
+"Nabe ñimune ciertonwei pi pinɵbulrrai piu umbu ulsrar cha, kaig mariilan isua mɵra, Tiusweimay llirain gɵnmab asamdiig kɵnrrai. Trune nai wendau arrubiibe si, Espíritu Santotɵgaba, naatɵgaba pinɵbulrrun cha. Truibe si, na lataguen gɵmɵ, maramburab marɵbig kɵben, nabe truburab gɵmíig kua, nui alpargatiswanguen srua inrrabgaig kur cha." | "na n."                   | 0.0000	False
+--------------------------------------------------------------------------------
+[40/300] Train loss: 1.71113, Valid loss: 1.69863, Elapsed_time: 12.25461
+Current_accuracy : 0.000, Current_norm_ED  : 0.1299
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1299
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Incha Josébe Marían nui nusrkawan tɵgagɵmnegatig keeba, sraimba lataig nɵmui asrtɵga chi marmuig kɵn. Incha Josébe unane Jesús munchi basrɵbig kɵn." | "n             n."        | 0.0000	False
+"Inchen nɵmbe tru urastɵ barconba, nɵmui mɵskawanba kɵrrɵmarɵppa, Jesúswei mendig ambuptinchibelɵ gɵn." | "n   n."                  | 0.0000	False
+--------------------------------------------------------------------------------
+[50/300] Train loss: 1.67291, Valid loss: 1.53057, Elapsed_time: 15.02683
+Current_accuracy : 0.000, Current_norm_ED  : 0.1369
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1369
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tius mandɵ martrai miaigwan marikkurri kaig martraindinab kaig nebui melabelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuin gɵn cha." | "Ina       n      n."     | 0.0000	False
+"Mayanguen tab gúilɵ gɵn cha, tru truba isuig kishibelaimbe. Kaguende Tiusbe nɵmun chi isui inchimɵnrrai tab gɵbigwan tranrrun cha." | "na                n."    | 0.0000	False
+--------------------------------------------------------------------------------
+[60/300] Train loss: 1.52540, Valid loss: 1.46987, Elapsed_time: 18.30892
+Current_accuracy : 0.000, Current_norm_ED  : 0.1372
+Best_accuracy    : 0.000, Best_norm_ED     : 0.1372
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tiusweimburabigwan ke kagɵmɵnrraindɵzhig tɵgaguermab isua palai mɵrɵbelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuiwein gɵn cha." | "I           n ."         | 0.0000	False
+"Nabe ñimune ciertonwei pi pinɵbulrrai piu umbu ulsrar cha, kaig mariilan isua mɵra, Tiusweimay llirain gɵnmab asamdiig kɵnrrai. Trune nai wendau arrubiibe si, Espíritu Santotɵgaba, naatɵgaba pinɵbulrrun cha. Truibe si, na lataguen gɵmɵ, maramburab marɵbig kɵben, nabe truburab gɵmíig kua, nui alpargatiswanguen srua inrrabgaig kur cha." | "I           n."          | 0.0000	False
+--------------------------------------------------------------------------------
+[70/300] Train loss: 1.50057, Valid loss: 1.46922, Elapsed_time: 21.19027
+Current_accuracy : 0.000, Current_norm_ED  : 0.2344
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2344
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Incha Josébe Marían nui nusrkawan tɵgagɵmnegatig keeba, sraimba lataig nɵmui asrtɵga chi marmuig kɵn. Incha Josébe unane Jesús munchi basrɵbig kɵn." | "In i i  in ɵin i in i i i i i gn i i i i  in n." | 0.0000	False
+"Mayanguen tab gúilɵ gɵn cha, tru truba isuig kishibelaimbe. Kaguende Tiusbe nɵmun chi isui inchimɵnrrai tab gɵbigwan tranrrun cha." | "Inin i gin gin i  in i in ɵi i in n i n ɵi gɵin ɵin ." | 0.0000	False
+--------------------------------------------------------------------------------
+[80/300] Train loss: 1.47124, Valid loss: 1.45569, Elapsed_time: 24.12220
+Current_accuracy : 0.000, Current_norm_ED  : 0.2723
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2723
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tiusweimburabigwan ke kagɵmɵnrraindɵzhig tɵgaguermab isua palai mɵrɵbelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuiwein gɵn cha." | "Inranrae r rraen rrr ar rr re ar rrae rrrrar rn." | 0.0000	False
+"Ɵyeeg chab srua amben, Jeconíasbe Salatielwei mɵskain gɵben; Salatielbe Zorobabelwei mɵskain gɵben;" | "Inrae ran re sen rsen saen msraen asren sbe rse msen ksn." | 0.0000	False
+--------------------------------------------------------------------------------
+[90/300] Train loss: 1.44604, Valid loss: 1.42020, Elapsed_time: 27.50141
+Current_accuracy : 0.000, Current_norm_ED  : 0.2708
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2723
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Jerusalén misaameraba, mayeelɵ Judea birau misaameraba, Jordán bi buluwanelɵba nun mɵrtrab werrubelɵ gɵn." | "Iabin gɵiiabi ɵiabig gɵbi gɵi ɵiibi ɵaibig g gaiiibi gɵi gɵaiaig gɵaibig gɵn." | 0.0000	False
+Ezequíasbe Manaséswei mɵskain gɵben; Manasésbe Amonwei mɵskain gɵben; Amonbe Josíaswei mɵskain gɵbig kɵn. | "Iaibi gaiabi ɵibi gɵbin aiabi ɵaii gɵaibi gɵbi gɵibi gɵaii ɵibi gɵbgɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[100/300] Train loss: 1.32840, Valid loss: 1.52828, Elapsed_time: 30.48336
+Current_accuracy : 0.000, Current_norm_ED  : 0.2818
+Best_accuracy    : 0.000, Best_norm_ED     : 0.2818
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"tru kusreb mɵguelɵ estrellan ashabe, truba rruba kasraarabelɵ gɵn." | "In hn caran ran ran crar ran ca ran Jhn can r can Jra ra aran n." | 0.0000	False
+"Incha nɵmui kaig mariilan ""kaig marig kɵn"" chib eshkaben, Juanbe truilan Jordán biyu piu umbu ulsrɵbig kɵn." | "Inan n cai canan cai cai kan. cai cainan Jain ain Jcnin cain can cain anain khn." | 0.0000	False
+--------------------------------------------------------------------------------
+[110/300] Train loss: 1.34793, Valid loss: 1.32571, Elapsed_time: 33.51024
+Current_accuracy : 0.000, Current_norm_ED  : 0.3284
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3284
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tius mandɵ martrai miaigwan marikkurri kaig martraindinab kaig nebui melabelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuin gɵn cha." | "Incagenegbgere e kɵrse ren ɵbgen rɵsbenibgersb bgɵe sben kɵen mɵsben kɵersɵb ke ɵbe rɵegn." | 0.0000	False
+"Mayanguen tab gúilɵ gɵn cha, tru Tiusweimburabigwan ke kagɵmɵnrraindɵzhig tɵgaguermab isua palai mɵrɵbelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuiwein gɵn cha." | "Incbnbgbgene en csenben nigenrsbigne ebben sbe ɵge sbe sbinsebn sbe kɵsengn." | 0.0000	False
+--------------------------------------------------------------------------------
+[120/300] Train loss: 1.23971, Valid loss: 1.56860, Elapsed_time: 37.09684
+Current_accuracy : 0.000, Current_norm_ED  : 0.2697
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3284
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Nabe ñimune ciertonwei pi pinɵbulrrai piu umbu ulsrar cha, kaig mariilan isua mɵra, Tiusweimay llirain gɵnmab asamdiig kɵnrrai. Trune nai wendau arrubiibe si, Espíritu Santotɵgaba, naatɵgaba pinɵbulrrun cha. Truibe si, na lataguen gɵmɵ, maramburab marɵbig kɵben, nabe truburab gɵmíig kua, nui alpargatiswanguen srua inrrabgaig kur cha." | "Incninigin kinin nin ini kinininci cin nin ncinig." | 0.0000	False
+"Incha nɵmune Belénmay ɵrabe, trenchibig kɵn: Trusrɵmay amba, tru unaimburab tab payrrigay cha. Incha wetɵrrawabe, eshkarrunrrigay cha, nagucha kɵriibala tabig waminchab inrrab cha." | "Incn cin cin nin. cincin ninigngncn kininin cinign kginckinig knin." | 0.0000	False
+--------------------------------------------------------------------------------
+[130/300] Train loss: 1.15818, Valid loss: 1.16527, Elapsed_time: 40.13269
+Current_accuracy : 0.000, Current_norm_ED  : 0.3233
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3284
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Nabe ñimune ciertonwei pi pinɵbulrrai piu umbu ulsrar cha, kaig mariilan isua mɵra, Tiusweimay llirain gɵnmab asamdiig kɵnrrai. Trune nai wendau arrubiibe si, Espíritu Santotɵgaba, naatɵgaba pinɵbulrrun cha. Truibe si, na lataguen gɵmɵ, maramburab marɵbig kɵben, nabe truburab gɵmíig kua, nui alpargatiswanguen srua inrrabgaig kur cha." | "In en en en a  an."      | 0.0000	False
+"Inchen nɵmbe tru urastɵ barconba, nɵmui mɵskawanba kɵrrɵmarɵppa, Jesúswei mendig ambuptinchibelɵ gɵn." | "Inchen mbe a me arbe maren mabe aaen Jaen maaig mininibein gɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[140/300] Train loss: 1.16065, Valid loss: 1.37326, Elapsed_time: 42.97724
+Current_accuracy : 0.000, Current_norm_ED  : 0.2965
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3284
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Jerusalén misaameraba, mayeelɵ Judea birau misaameraba, Jordán bi buluwanelɵba nun mɵrtrab werrubelɵ gɵn." | "Inchen mrmnman mnan Jmchan tnrn mrmmnmbn Jnrhan n Jmbe n mrma nrman ɵn." | 0.0000	False
+"Inchen tru kebenɵsrkɵnrrab inchibiibe Jesúswan kemallabe, trenchibig kɵn: Isa gɵmɵ, tru ñi Tiuswei Nusrkain guabe, i sruumeran pirri misringaru cha." | "In n mr nrrn tnrn trn nrn tn n n n nrn tnrn tn nrn n nrn n." | 0.0000	False
+--------------------------------------------------------------------------------
+[150/300] Train loss: 1.09081, Valid loss: 1.69643, Elapsed_time: 46.39445
+Current_accuracy : 0.000, Current_norm_ED  : 0.2669
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3284
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Srɵtɵbe Juanbe nune piu umbu ulsrɵg kɵmui incha, trenchibig kɵn: Nane ñiguen rreeg marig kɵmdiig kɵbendɵ, ¿ñiguen nan attirru? cha." |  n n n n n n n n n n n n g n n n n n n n n n." | 0.0000	False
+"Inchen yandɵ Herodes kwaben, Señorwei kan ángel Joséwan Egiptosrɵ piabyu kenamisra, trenchibig kɵn:" | "nan a anan aan unan an an agn an gynara agan ananana an ag ɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[160/300] Train loss: 0.99593, Valid loss: 1.31265, Elapsed_time: 49.33520
+Current_accuracy : 0.000, Current_norm_ED  : 0.3323
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3323
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Jerusalén misaameraba, mayeelɵ Judea birau misaameraba, Jordán bi buluwanelɵba nun mɵrtrab werrubelɵ gɵn." | "nain mianai, mugwain in kaian muianain, arin uiurania ɵun mɵunrai ɵnrin gɵn." | 0.0000	False
+"Incha Josébe Marían nui nusrkawan tɵgagɵmnegatig keeba, sraimba lataig nɵmui asrtɵga chi marmuig kɵn. Incha Josébe unane Jesús munchi basrɵbig kɵn." | "n uai inin igunigig kin kaig kɵn ig i iuigɵn i i iuin igin." | 0.0000	False
+--------------------------------------------------------------------------------
+[170/300] Train loss: 1.03063, Valid loss: 1.74640, Elapsed_time: 52.32371
+Current_accuracy : 0.000, Current_norm_ED  : 0.1566
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3323
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tiusweimburabigwan ke kagɵmɵnrraindɵzhig tɵgaguermab isua palai mɵrɵbelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuiwein gɵn cha." | nmaammaɵna                | 0.0000	False
+"Inchen nɵmbe tru urastɵ barconba, nɵmui mɵskawanba kɵrrɵmarɵppa, Jesúswei mendig ambuptinchibelɵ gɵn." | mmnmɵmnman mɵnimɵn ɵnmɵig ɵmnɵn. | 0.0000	False
+--------------------------------------------------------------------------------
+[180/300] Train loss: 0.97447, Valid loss: 1.29710, Elapsed_time: 55.53350
+Current_accuracy : 0.000, Current_norm_ED  : 0.3431
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3431
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Jerusalén misaameraba, mayeelɵ Judea birau misaameraba, Jordán bi buluwanelɵba nun mɵrtrab werrubelɵ gɵn." | "Inebe mibeienibe, mɵgebe ibeg kbie mibgbeienbe, ɵibn g kibieibe i mɵib gɵnmibɵ gɵn." | 0.0000	False
+"Srɵtɵbe Juanbe nune piu umbu ulsrɵg kɵmui incha, trenchibig kɵn: Nane ñiguen rreeg marig kɵmdiig kɵbendɵ, ¿ñiguen nan attirru? cha." | "Kbe ɵsbe ɵi gi ibig gbig ɵi be kɵibigkɵn kɵi kgɵi ɵig ɵig kɵig kɵbɵeibe gɵin kɵi gbi kɵ." | 0.0000	False
+--------------------------------------------------------------------------------
+[190/300] Train loss: 0.87756, Valid loss: 1.42366, Elapsed_time: 58.60114
+Current_accuracy : 0.000, Current_norm_ED  : 0.3056
+Best_accuracy    : 0.000, Best_norm_ED     : 0.3431
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen nɵmbe tru urastɵ barconba, nɵmui mɵskawanba kɵrrɵmarɵppa, Jesúswei mendig ambuptinchibelɵ gɵn." | "Iacbai paibg bag paab kaibag Jai mɵabaiaiba kairamagbag kbabaei mɵrig aibiagbigkib gɵa." | 0.0000	False
+"trenchibig kɵn: Iigwan nabe kerriguba tranrrumɵn cha, ñi nan srala, kɵriibala tabig waminchene" | "Iaabig kai igai tabe karigba kamrambai kbag kb kab abg Eaibabg kabig paibaibag" | 0.0000	False
+--------------------------------------------------------------------------------
+[200/300] Train loss: 0.77696, Valid loss: 1.00995, Elapsed_time: 61.53843
+Current_accuracy : 0.000, Current_norm_ED  : 0.4267
+Best_accuracy    : 0.000, Best_norm_ED     : 0.4267
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Incha Josébe Marían nui nusrkawan tɵgagɵmnegatig keeba, sraimba lataig nɵmui asrtɵga chi marmuig kɵn. Incha Josébe unane Jesús munchi basrɵbig kɵn." | "In, traba tauan ta, turan gwrgig wɵa, twama tag wɵr, arag u marug ɵn, ra, traba wa ta, rui araig ɵn." | 0.0000	False
+"Mayanguen tab gúilɵ gɵn cha, tru truba isuig kishibelaimbe. Kaguende Tiusbe nɵmun chi isui inchimɵnrrai tab gɵbigwan tranrrun cha." | "Inyrngwan, tai paia pɵn, ta, tu, tua tug umaeama, gywra, uba tɵran a, tau tuiamwara, tai gɵbigpwn, trarun a." | 0.0000	False
+--------------------------------------------------------------------------------
+[210/300] Train loss: 0.83352, Valid loss: 0.87242, Elapsed_time: 65.10431
+Current_accuracy : 0.000, Current_norm_ED  : 0.4417
+Best_accuracy    : 0.000, Best_norm_ED     : 0.4417
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tiusweimburabigwan ke kagɵmɵnrraindɵzhig tɵgaguermab isua palai mɵrɵbelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuiwein gɵn cha." | "Inayenmaigpebaen te e taueminmigwenriguwemig wɵgweai marai meie tagwe wemae inmreiaiabe wei gɵn." | 0.0000	False
+"Srɵtɵbe Juanbe nune piu umbu ulsrɵg kɵmui incha, trenchibig kɵn: Nane ñiguen rreeg marig kɵmdiig kɵbendɵ, ¿ñiguen nan attirru? cha." | "Ie tebe me ae mbe maerey kemacee menchbig ken hen higuen mrei meig enmi mɵemab, igwen men ain hn." | 0.0000	False
+--------------------------------------------------------------------------------
+[220/300] Train loss: 0.73332, Valid loss: 1.35303, Elapsed_time: 68.20146
+Current_accuracy : 0.000, Current_norm_ED  : 0.2873
+Best_accuracy    : 0.000, Best_norm_ED     : 0.4417
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Jerusalén misaameraba, mayeelɵ Judea birau misaameraba, Jordán bi buluwanelɵba nun mɵrtrab werrubelɵ gɵn." |  eabie miaeabe maywe pebe iau miaeabe pebi e aiwaiebe waui maai wemieie gɵen,  | 0.0000	False
+"Inchen misaamera galileasreelɵ gɵben, decapolissreelɵ gɵben, jerusalénsreelɵ gɵben, judeasreelɵ gɵben, Jordán bi tru pɵrr gallabgatɵsreelɵ gɵben Jesúswei mendig truba nu ambubelɵ gɵn." | eaeyieweiye waeieige yweaieweye uieweige aieae yigueweie eeigueieig g | 0.0000	False
+--------------------------------------------------------------------------------
+[230/300] Train loss: 0.64626, Valid loss: 1.08223, Elapsed_time: 71.05561
+Current_accuracy : 0.000, Current_norm_ED  : 0.3827
+Best_accuracy    : 0.000, Best_norm_ED     : 0.4417
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Incha Nazaret puebloyugurri webyabe, Capernaum pueblosrɵ pisu menda, Zabulónwei misag warainuuba, Neftalíwei misag warainuuba tru birau tsunrrab ibig kɵn." | "Inenchaenaeleanebebe Jenanaelenenabe nean Jlalnenmiagwenmnaba Jebleniagwenmndanhen canmabnɵigɵn." | 0.0000	False
+"Mayanguen tab gúilɵ gɵn cha, tru Tius mandɵ martrai miaigwan marikkurri kaig martraindinab kaig nebui melabelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuin gɵn cha." | "Inayengɵn en hnaneneane aigenanhanhag aendalnag en aehlelan Eauenedlenenchl aen ealn aɵngɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[240/300] Train loss: 0.63804, Valid loss: 1.09220, Elapsed_time: 74.56688
+Current_accuracy : 0.000, Current_norm_ED  : 0.3333
+Best_accuracy    : 0.000, Best_norm_ED     : 0.4417
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Incha nɵmui kaig mariilan ""kaig marig kɵn"" chib eshkaben, Juanbe truilan Jordán biyu piu umbu ulsrɵbig kɵn." | "Inche weau kaig nabaen uag waig kɵn uaab eahaben puabe waban pean tay yau aba aabig kɵn" | 0.0000	False
+"Mayanguen tab gúilɵ gɵn cha, tru Tiusweimburabigwan ke kagɵmɵnrraindɵzhig tɵgaguermab isua palai mɵrɵbelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuiwein gɵn cha." | "Iyayy  ayayangyaa  ay ae uanynag | 0.0000	False
+--------------------------------------------------------------------------------
+[250/300] Train loss: 0.56617, Valid loss: 0.73310, Elapsed_time: 77.54561
+Current_accuracy : 0.000, Current_norm_ED  : 0.4969
+Best_accuracy    : 0.000, Best_norm_ED     : 0.4969
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Ɵyeeg chab srua amben, Jeconíasbe Salatielwei mɵskain gɵben; Salatielbe Zorobabelwei mɵskain gɵben;" | "Iea, chab nra amben, Jencmdbcbe Aaíbalbwei mɵskain gɵben; Aaoaítenbe Jordbabelmwei mɵskan gɵben." | 0.0000	False
+"Srɵtɵbe Juanbe nune piu umbu ulsrɵg kɵmui incha, trenchibig kɵn: Nane ñiguen rreeg marig kɵmdiig kɵbendɵ, ¿ñiguen nan attirru? cha." | "Irdbe Jasbe nmme cab rmb chrag amucha menchbig kɵn INarn higuan mag maig andbg Jsbenmdb, cbguan tan caincha." | 0.0000	False
+--------------------------------------------------------------------------------
+[260/300] Train loss: 0.51835, Valid loss: 0.74724, Elapsed_time: 80.64752
+Current_accuracy : 0.000, Current_norm_ED  : 0.5165
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5165
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tius mandɵ martrai miaigwan marikkurri kaig martraindinab kaig nebui melabelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuin gɵn cha." | "Inayenai ɵln ɵechi n herame amraiywenranhaniag aenmailmltai pale aslaln kauwei relaen ta raralb aumbrab raɵmi pɵnch." | 0.0000	False
+"Inchen tru kebenɵsrkɵnrrab inchibiibe Jesúswan kemallabe, trenchibig kɵn: Isa gɵmɵ, tru ñi Tiuswei Nusrkain guabe, i sruumeran pirri misringaru cha." | "Incencnchemnhenreihanchibe heitren henmhie tenchig kn tr pwen trch heren herchan pɵibe tramran aeni amrmiyench." | 0.0000	False
+--------------------------------------------------------------------------------
+[270/300] Train loss: 0.56975, Valid loss: 1.20745, Elapsed_time: 84.25667
+Current_accuracy : 0.000, Current_norm_ED  : 0.3895
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5165
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Mayanguen tab gúilɵ gɵn cha, tru Tiusweimburabigwan ke kagɵmɵnrraindɵzhig tɵgaguermab isua palai mɵrɵbelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuiwein gɵn cha." | "Incenchglage cIa he JcelbncbgechcEgenenbe g gpencdb Jachbe Jecdlebe Jgele enhabe Ilnch Jechche cecel gnc." | 0.0000	False
+"trenchibig kɵn: Iigwan nabe kerriguba tranrrumɵn cha, ñi nan srala, kɵriibala tabig waminchene" | "Inenchlbeg kɵn, gpean nadbe JAan gucbe Jeamemname chba, Ia can cba, Jaemldbadbe Aabig Jeamlnechene" | 0.0000	False
+--------------------------------------------------------------------------------
+[280/300] Train loss: 0.45661, Valid loss: 1.29732, Elapsed_time: 87.28006
+Current_accuracy : 0.000, Current_norm_ED  : 0.3446
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5165
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Ezequíasbe Manaséswei mɵskain gɵben; Manasésbe Amonwei mɵskain gɵben; Amonbe Josíaswei mɵskain gɵbig kɵn. | pguibbe Tbuebe mɵbai gɵbe, Tbuuebbe kue mbi gbe, Tube Jibuwei mɵbai gɵbig kɵn." | 0.0000	False
+"Mayanguen tab gúilɵ gɵn cha, tru Tius mandɵ martrai miaigwan marikkurri kaig martraindinab kaig nebui melabelaimbe. Kaguende srɵmbalasrɵ Tius nɵ ashib karub waibe nɵmuin gɵn cha." | "Kygyaigbpye eb e ke ubigyaubu ig urabebigebe aiblbe gue rebe ke uaib pubabaig ag | 0.0000	False
+--------------------------------------------------------------------------------
+[290/300] Train loss: 0.42506, Valid loss: 1.15458, Elapsed_time: 90.26786
+Current_accuracy : 0.000, Current_norm_ED  : 0.3288
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5165
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"tru kusreb mɵguelɵ estrellan ashabe, truba rruba kasraarabelɵ gɵn." | y yy yy yy y yy :         | 0.0000	False
+"Jesúswane Siria birausrɵ kerrigu wammɵra gua, mayan gwanrreelan srua amrrubelɵ gɵn. Tru chi gwanrrɵ gɵben tɵgarmeran, katɵ ni mumayguen tab gɵmui mɵrɵb inchibelan, tru kwaimandziimera tɵgarmeran gɵben, itɵnab pesannabig tɵgarmeran gɵben, kɵnɵnrrab gaimabelan gɵben srua amrrubelɵ gɵn. Inchen Jesúsbe tamarɵbig kɵn." | "caygyayay pygygyyagyyaɵ agyyaagyya wygyyyayag | 0.0000	False
+--------------------------------------------------------------------------------
+[300/300] Train loss: 0.49440, Valid loss: 0.68697, Elapsed_time: 93.60887
+Current_accuracy : 0.000, Current_norm_ED  : 0.5196
+Best_accuracy    : 0.000, Best_norm_ED     : 0.5196
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Ezequíasbe Manaséswei mɵskain gɵben; Manasésbe Amonwei mɵskain gɵben; Amonbe Josíaswei mɵskain gɵbig kɵn. | "oeyuisbe Jiomaseswei mɵsain gɵben; Joamnasesbe Jmamwei mɵskain gɵben; Jomandbe Jososwei mɵskain gɵbig ɵn." | 0.0000	False
+"Incha Nazaret puebloyugurri webyabe, Capernaum pueblosrɵ pisu menda, Zabulónwei misag warainuuba, Neftalíwei misag warainuuba tru birau tsunrrab ibig kɵn." | "Io ioaenspeliwuguniebeabe Jueɵmanpuedlsenabunmeɵab ilalimweimigwainuba Jeblieimiugwninudaeuliausanmsbigɵn." | 0.0000	False
+--------------------------------------------------------------------------------
+[10/300] Train loss: 6.48116, Valid loss: 3.92077, Elapsed_time: 14.56330
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Uríaswei srain gɵbiibabe Salomónwɵi mɵskalɵ gɵbig kɵn. |                           | 0.0000	False
+"Inchen David kɵb uraskurri tru israelitasmeran Babiloniamay merrarrawa srua ambub uraskatig katɵgan catorce treetɵwei katɵle srɵig," |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[20/300] Train loss: 4.25380, Valid loss: 3.87917, Elapsed_time: 17.41627
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+(Tru Emanuel munchibe Tiusbe namba basran daig). |                           | 0.0000	False
+Sadocbe Aquimwei mɵskain gɵbig kɵn. |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[30/300] Train loss: 3.92169, Valid loss: 3.70749, Elapsed_time: 19.75966
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Abíasbe Asaiwei mɵskain gɵbig kɵn. |                           | 0.0000	False
+nui usrimbe Rut gɵbig kɵn. |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[40/300] Train loss: 3.68602, Valid loss: 3.60637, Elapsed_time: 21.70622
+Current_accuracy : 0.000, Current_norm_ED  : 0.0000
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0000
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"tru Davidweinukkurrimba," |                           | 0.0000	False
+"Inchen David kɵb uraskurri tru israelitasmeran Babiloniamay merrarrawa srua ambub uraskatig katɵgan catorce treetɵwei katɵle srɵig," |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[50/300] Train loss: 3.55420, Valid loss: 3.52821, Elapsed_time: 24.04030
+Current_accuracy : 0.000, Current_norm_ED  : 0.0020
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0020
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Kaguende ñuinukkurrimbe misagwan ashib karunrrabig kan webattrun cha," |                           | 0.0000	False
+Uríaswei srain gɵbiibabe Salomónwɵi mɵskalɵ gɵbig kɵn. |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[60/300] Train loss: 3.46724, Valid loss: 3.45618, Elapsed_time: 26.45065
+Current_accuracy : 0.000, Current_norm_ED  : 0.0063
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0063
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+sraimba lataig nɵmui asrtɵga chi marmuig kɵn. |                           | 0.0000	False
+"Zaraimba mɵskain gɵben," |                           | 0.0000	False
+--------------------------------------------------------------------------------
+[70/300] Train loss: 3.38822, Valid loss: 3.35185, Elapsed_time: 28.48223
+Current_accuracy : 0.000, Current_norm_ED  : 0.0169
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0169
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | ".                        | 0.0000	False
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | .                         | 0.0000	False
+--------------------------------------------------------------------------------
+[80/300] Train loss: 3.31998, Valid loss: 3.38282, Elapsed_time: 30.91808
+Current_accuracy : 0.000, Current_norm_ED  : 0.0212
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0212
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kan unɵ tɵgagɵnrrun.      | "                         | 0.0000	False
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | ".                        | 0.0000	False
+--------------------------------------------------------------------------------
+[90/300] Train loss: 3.29266, Valid loss: 3.28259, Elapsed_time: 33.34893
+Current_accuracy : 0.000, Current_norm_ED  : 0.0289
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0289
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Faresbe Esromwei mɵskain gɵben; | ".                        | 0.0000	False
+Uríaswei srain gɵbiibabe Salomónwɵi mɵskalɵ gɵbig kɵn. | "n,.                      | 0.0000	False
+--------------------------------------------------------------------------------
+[100/300] Train loss: 3.22556, Valid loss: 3.30895, Elapsed_time: 35.37544
+Current_accuracy : 0.000, Current_norm_ED  : 0.0465
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0465
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Truibe Emanuel cha wamig kɵnrrun cha," | "n.                       | 0.0000	False
+"Zaraimba mɵskain gɵben," | ","                       | 0.0000	False
+--------------------------------------------------------------------------------
+[110/300] Train loss: 3.14267, Valid loss: 3.20746, Elapsed_time: 37.80831
+Current_accuracy : 0.000, Current_norm_ED  : 0.0429
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0465
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Esrombe Aramwei mɵskain gɵbig kɵn. | "n.                       | 0.0000	False
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | ",.                       | 0.0000	False
+--------------------------------------------------------------------------------
+[120/300] Train loss: 3.07477, Valid loss: 3.29080, Elapsed_time: 40.17053
+Current_accuracy : 0.000, Current_norm_ED  : 0.0429
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0465
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+kan unɵ tɵgagɵnrrun.      | ","                       | 0.0000	False
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | ",.                       | 0.0000	False
+--------------------------------------------------------------------------------
+[130/300] Train loss: 3.04334, Valid loss: 3.24116, Elapsed_time: 42.13488
+Current_accuracy : 0.000, Current_norm_ED  : 0.0475
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0475
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"ñi Belén pueblounɵbe,"   | "n.                       | 0.0000	False
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | "n.                       | 0.0000	False
+--------------------------------------------------------------------------------
+[140/300] Train loss: 3.03083, Valid loss: 3.19045, Elapsed_time: 44.50872
+Current_accuracy : 0.000, Current_norm_ED  : 0.0435
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0475
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Ɵyeeg chab srua amben,"  | ",.                       | 0.0000	False
+nui nunelaimba mɵskain gɵbig kɵn. | "n.                       | 0.0000	False
+--------------------------------------------------------------------------------
+[150/300] Train loss: 2.95684, Valid loss: 3.19261, Elapsed_time: 46.86000
+Current_accuracy : 0.000, Current_norm_ED  : 0.0459
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0475
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Kaguende ñuinukkurrimbe misagwan ashib karunrrabig kan webattrun cha," | "n"                       | 0.0000	False
+"Inchen David kɵb uraskurri tru israelitasmeran Babiloniamay merrarrawa srua ambub uraskatig katɵgan catorce treetɵwei katɵle srɵig," | ","                       | 0.0000	False
+--------------------------------------------------------------------------------
+[160/300] Train loss: 3.02388, Valid loss: 3.17728, Elapsed_time: 48.82196
+Current_accuracy : 0.000, Current_norm_ED  : 0.0470
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0475
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Obedbe Isaíwei mɵskain gɵben," | tn.                       | 0.0000	False
+"Truibe Emanuel cha wamig kɵnrrun cha," | "n.                       | 0.0000	False
+--------------------------------------------------------------------------------
+[170/300] Train loss: 2.98861, Valid loss: 3.40345, Elapsed_time: 51.16887
+Current_accuracy : 0.000, Current_norm_ED  : 0.0427
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0475
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+payibig kɵn: ¿Cristobe chu gallanrrabig kɵ? cha. | "n"                       | 0.0000	False
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | "n.                       | 0.0000	False
+--------------------------------------------------------------------------------
+[180/300] Train loss: 3.00018, Valid loss: 3.27337, Elapsed_time: 53.53063
+Current_accuracy : 0.000, Current_norm_ED  : 0.0665
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0665
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Esrombe Aramwei mɵskain gɵbig kɵn. | "Ie,"                     | 0.0000	False
+"Inchen David kɵb uraskurri tru israelitasmeran Babiloniamay merrarrawa srua ambub uraskatig katɵgan catorce treetɵwei katɵle srɵig," | n.                        | 0.0000	False
+--------------------------------------------------------------------------------
+[190/300] Train loss: 3.00338, Valid loss: 3.08669, Elapsed_time: 55.52765
+Current_accuracy : 0.000, Current_norm_ED  : 0.0600
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0665
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Acazbe Ezequíaswei mɵskain gɵbig kɵn. | "en;                      | 0.0000	False
+kan unɵ tɵgagɵnrrun.      | "n"                       | 0.0000	False
+--------------------------------------------------------------------------------
+[200/300] Train loss: 2.89964, Valid loss: 3.15637, Elapsed_time: 57.84860
+Current_accuracy : 0.000, Current_norm_ED  : 0.0643
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0665
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Kaguende ñuinukkurrimbe misagwan ashib karunrrabig kan webattrun cha," | "an,"                     | 0.0000	False
+Uríaswei srain gɵbiibabe Salomónwɵi mɵskalɵ gɵbig kɵn. | "n.                       | 0.0000	False
+--------------------------------------------------------------------------------
+[210/300] Train loss: 2.94312, Valid loss: 3.18036, Elapsed_time: 60.23340
+Current_accuracy : 0.000, Current_norm_ED  : 0.0634
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0665
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Obedbe Isaíwei mɵskain gɵben," | "en"                      | 0.0000	False
+"Kaguende ñuinukkurrimbe misagwan ashib karunrrabig kan webattrun cha," | "rn,"                     | 0.0000	False
+--------------------------------------------------------------------------------
+[220/300] Train loss: 2.92289, Valid loss: 3.25362, Elapsed_time: 62.19807
+Current_accuracy : 0.000, Current_norm_ED  : 0.0495
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0665
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchen David kɵb uraskurri tru israelitasmeran Babiloniamay merrarrawa srua ambub uraskatig katɵgan catorce treetɵwei katɵle srɵig," | n"                        | 0.0000	False
+Esrombe Aramwei mɵskain gɵbig kɵn. | "n.                       | 0.0000	False
+--------------------------------------------------------------------------------
+[230/300] Train loss: 2.92115, Valid loss: 3.20323, Elapsed_time: 64.53420
+Current_accuracy : 0.000, Current_norm_ED  : 0.0607
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0665
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Nɵbe kan mɵgunɵ tɵgagɵben," | "e,"                      | 0.0000	False
+payibig kɵn: ¿Cristobe chu gallanrrabig kɵ? cha. | "an"                      | 0.0000	False
+--------------------------------------------------------------------------------
+[240/300] Train loss: 2.90030, Valid loss: 3.41333, Elapsed_time: 66.92775
+Current_accuracy : 0.000, Current_norm_ED  : 0.0677
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0677
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+payibig kɵn: ¿Cristobe chu gallanrrabig kɵ? cha. | "an,.                     | 0.0000	False
+Eliaquimbe Azorwei mɵskain gɵbig kɵn. | "rn,.                     | 0.0000	False
+--------------------------------------------------------------------------------
+[250/300] Train loss: 2.85468, Valid loss: 3.28131, Elapsed_time: 68.92982
+Current_accuracy : 0.000, Current_norm_ED  : 0.0639
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0677
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Faresbe Esromwei mɵskain gɵben; | "n.                       | 0.0000	False
+ni mumaygucha gɵmui inchibig kɵn. | "rn.                      | 0.0000	False
+--------------------------------------------------------------------------------
+[260/300] Train loss: 2.81652, Valid loss: 3.19219, Elapsed_time: 71.30717
+Current_accuracy : 0.000, Current_norm_ED  : 0.0715
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0715
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | "uen.                     | 0.0000	False
+Acazbe Ezequíaswei mɵskain gɵbig kɵn. | "rn.                      | 0.0000	False
+--------------------------------------------------------------------------------
+[270/300] Train loss: 2.86817, Valid loss: 3.21586, Elapsed_time: 73.70704
+Current_accuracy : 0.000, Current_norm_ED  : 0.0743
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0743
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"ñi Belén pueblounɵbe,"   | nn,"                      | 0.0000	False
+Inchen Eliudbe Eleazarwei mɵskain gɵben; | "Kan.                     | 0.0000	False
+--------------------------------------------------------------------------------
+[280/300] Train loss: 2.80041, Valid loss: 3.07774, Elapsed_time: 75.74727
+Current_accuracy : 0.000, Current_norm_ED  : 0.0796
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0796
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | "ae,"                     | 0.0000	False
+nui usrimbe Rut gɵbig kɵn. | "Ken.                     | 0.0000	False
+--------------------------------------------------------------------------------
+[290/300] Train loss: 2.91197, Valid loss: 3.11064, Elapsed_time: 78.19751
+Current_accuracy : 0.000, Current_norm_ED  : 0.0840
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0840
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+"tru Moisés pɵrigwan kusrenanɵbelanba wama," | "aɵn.                     | 0.0000	False
+Eliaquimbe Azorwei mɵskain gɵbig kɵn. | "aɵn,"                    | 0.0000	False
+--------------------------------------------------------------------------------
+[300/300] Train loss: 2.73740, Valid loss: 3.34633, Elapsed_time: 80.65122
+Current_accuracy : 0.000, Current_norm_ED  : 0.0825
+Best_accuracy    : 0.000, Best_norm_ED     : 0.0840
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+Uríaswei srain gɵbiibabe Salomónwɵi mɵskalɵ gɵbig kɵn. | "ae,"                     | 0.0000	False
+"Inchawei Abraham kɵb uraskurri merrabsrɵ kɵlli misaamerai ureemera katɵle srɵig," | "ae,"                     | 0.0000	False
+--------------------------------------------------------------------------------

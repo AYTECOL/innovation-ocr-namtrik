@@ -1,0 +1,1148 @@
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/.	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['./gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data/
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data/
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data/
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/gum_train	 num samples: 0
+sub-directory:	/en_sample2/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/gum_train	 num samples: 0
+sub-directory:	/en_sample2/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample2']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample2
+sub-directory:	/en_sample2/en_sample	 num samples: 882
+num total samples of en_sample2: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample2 per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample2	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data/gum_train
+opt.select_data: ['']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: 
+sub-directory:	/.	 num samples: 0
+num total samples of : 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of  per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data/gum_train
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: gum_train
+sub-directory:	/.	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data/gum_train
+opt.select_data: ['/']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 0
+num total samples of /: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of / per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample
+sub-directory:	/en_sample/en_sample	 num samples: 882
+num total samples of en_sample: 882 x 1.0 (total_data_usage_ratio) = 882
+num samples of en_sample per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample	 dataset: /
+sub-directory:	/en_sample	 num samples: 882
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample2']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample2
+sub-directory:	/en_sample2	 num samples: 84
+num total samples of en_sample2: 84 x 1.0 (total_data_usage_ratio) = 84
+num samples of en_sample2 per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/en_sample2	 dataset: /
+sub-directory:	/.	 num samples: 84
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample2']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample2']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: en_sample2
+sub-directory:	/en_sample2	 num samples: 0
+num total samples of en_sample2: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of en_sample2 per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 84
+num total samples of gum_train: 84 x 1.0 (total_data_usage_ratio) = 84
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 84
+num total samples of gum_train: 84 x 1.0 (total_data_usage_ratio) = 84
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 84
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 84
+num total samples of gum_train: 84 x 1.0 (total_data_usage_ratio) = 84
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 84
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 83
+num total samples of gum_train: 83 x 1.0 (total_data_usage_ratio) = 83
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 83
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 83
+num total samples of gum_train: 83 x 1.0 (total_data_usage_ratio) = 83
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 83
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 83
+num total samples of gum_train: 83 x 1.0 (total_data_usage_ratio) = 83
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 83
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 55
+num total samples of gum_train: 55 x 1.0 (total_data_usage_ratio) = 55
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 55
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 36
+num total samples of gum_train: 36 x 1.0 (total_data_usage_ratio) = 36
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 36
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 8
+num total samples of gum_train: 8 x 1.0 (total_data_usage_ratio) = 8
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 8
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['en_sample2']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 2
+num total samples of gum_train: 2 x 1.0 (total_data_usage_ratio) = 2
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 2
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 0
+num total samples of gum_train: 0 x 1.0 (total_data_usage_ratio) = 0
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 2
+num total samples of gum_train: 2 x 1.0 (total_data_usage_ratio) = 2
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 2
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 2
+num total samples of gum_train: 2 x 1.0 (total_data_usage_ratio) = 2
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 2
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 2
+num total samples of gum_train: 2 x 1.0 (total_data_usage_ratio) = 2
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 2
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 1
+num total samples of gum_train: 1 x 1.0 (total_data_usage_ratio) = 1
+num samples of gum_train per batch: 48 x 1.0 (batch_ratio) = 48
+--------------------------------------------------------------------------------
+Total_batch_size: 48 = 48
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 80
+num total samples of gum_train: 80 x 1.0 (total_data_usage_ratio) = 80
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 80
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 80
+num total samples of gum_train: 80 x 1.0 (total_data_usage_ratio) = 80
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_train	 dataset: /
+sub-directory:	/.	 num samples: 80
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 80
+num total samples of gum_train: 80 x 1.0 (total_data_usage_ratio) = 80
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_val	 dataset: /
+sub-directory:	/.	 num samples: 19
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['gum_train']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: gum_train
+sub-directory:	/gum_train	 num samples: 167
+num total samples of gum_train: 167 x 1.0 (total_data_usage_ratio) = 167
+num samples of gum_train per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/gum_val	 dataset: /
+sub-directory:	/.	 num samples: 41
+--------------------------------------------------------------------------------
